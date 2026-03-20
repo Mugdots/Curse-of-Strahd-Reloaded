@@ -84,47 +84,47 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 > 
 > Alternatively, if you'd like to read drafts, outlines, and notes for upcoming releases—such as the unreleased Epilogue, the optional downtime arc ***Arc N: Tales of Vallaki***, or substantial edits to existing arcs, you can do so by becoming a paid supporter of DragnaCarta's [Patreon](https://www.patreon.com/DragnaCarta). Doing so also allows you to join an exclusive Discord community of new and experienced DMs running Reloaded themselves, receive regular development blogs breaking down the design of Reloaded's arcs, and receive personal campaign advice and help from the author.
 ## Chapter 1 - Beginning the Campaign
-[[Session Zero]]. Setting expectations and clarifying player triggers.
-[[Character Creation]]. Developing character bonds, flaws, and motivations.
+[[remote-blog/Capitulo 1 - Começo da Campanha/Session Zero]]. Setting expectations and clarifying player triggers.
+[[remote-blog/Capitulo 1 - Começo da Campanha/Character Creation]]. Developing character bonds, flaws, and motivations.
 ## Chapter 2 - The Land of Barovia
-[[Lore of Barovia]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
-[[History of Barovia]]. A narrative history of Barovia and the Von Zarovich family.
-[[Strahd von Zarovich]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
+[[remote-blog/Capitulo 2 - A Terra de Barovia/Lore of Barovia]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
+[[remote-blog/Chapter 2 - The Land of Barovia 1/History of Barovia]]. A narrative history of Barovia and the Von Zarovich family.
+[[remote-blog/Capitulo 2 - A Terra de Barovia/Strahd von Zarovich]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
 ## Chapter 3 - Running the Game
-[[Adventure Summary]]. Summaries of the campaign's six narrative acts.
-[[Running the Adventure]]. A guide to reading—and running—this guide.
+[[remote-blog/Capitulo 3 - Começando o Jogo/Adventure Summary]]. Summaries of the campaign's six narrative acts.
+[[remote-blog/Capitulo 3 - Começando o Jogo/Running the Adventure]]. A guide to reading—and running—this guide.
 ## Act I - Into the Mists
 [[Act I Summary]]. A summary of the players' first passage into Barovia.
 [[Arc A - Escape From Death House]]. The players are lured into a haunted house and must escape before a ravenous evil awakens.
 [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. The players arrive in the Village of Barovia amidst an ongoing siege and must defend themselves and their new friends from Strahd's undead legions.
 [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
 ## Act II - The Shadowed Town
-[[Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
-[[Arc D - St. Andral's Feast]]. The players investigate a theft of sacred bones from Vallaki's church.
-[[Arc E - The Missing Vistana]]. The players follow the trail of a kidnapped Vistani across western Barovia. 
-[[Arc F - Lady Wachter's Wish]]. The players are invited to join a dangerous conspiracy to overthrow Vallaki's burgomaster.
-[[Arc G - The Strazni Siblings]]. The players encounter the dark dreams of Vallaki's Captain of the Guard.
-[[Arc H - The Lost Soul]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
-[[Arc I - The Walls of Krezk]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
+[[remote-blog/Ato II - A Cidade Obscurecida/Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
+[[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]. The players investigate a theft of sacred bones from Vallaki's church.
+[[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]. The players follow the trail of a kidnapped Vistani across western Barovia. 
+[[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]. The players are invited to join a dangerous conspiracy to overthrow Vallaki's burgomaster.
+[[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]. The players encounter the dark dreams of Vallaki's Captain of the Guard.
+[[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
+[[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
 ## Act III - The Broken Land
-[[Act III Summary]]. A summary of the players' adventures across the broader Barovian valley.
-[[Arc J - The Stolen Gem]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
-[[Arc K - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
-[[Arc L - The Den of Wolves]]. The players stake out and infiltrate a den of werewolves.
-[[Arc M - The Dragon's Manor]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
-[[Arc N - Tales of Vallaki]]. Coming soon.
-[[Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
-[[Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.
-[[Arc Q - A Shining Beacon]]. The players redeem the Abbot, defeat the werewolf Kiril Stoyanovich, and light the beacon of Argynvostholt.
+[[remote-blog/Ato III - A Terra Quebrada/Act III Summary]]. A summary of the players' adventures across the broader Barovian valley.
+[[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
+[[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
+[[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]. The players stake out and infiltrate a den of werewolves.
+[[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
+[[remote-blog/Ato III - A Terra Quebrada/Arc N - Tales of Vallaki]]. Coming soon.
+[[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
+[[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.
+[[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]. The players redeem the Abbot, defeat the werewolf Kiril Stoyanovich, and light the beacon of Argynvostholt.
 ## Act IV - Secrets of the Ancient
-[[Act IV Summary]]. Coming soon.
-[[Arc R - Trials of the Mountain]]. The players ascend the treacherous Tsolenka Pass while surviving Strahd's predations.
-[[Arc S - A Sword of Sunlight]]. The players retrieve the broken *Sunsword* from the Amber Temple.
-[[Arc T - The Three Fanes]]. The players aid their Barovian friends in order to cleanse the land of Strahd's corruption.
-[[Arc U - Dreams of Dawn]]. The players must defeat the vampire Strahd von Zarovich, once and for all.
-[[Epilogue]]. Coming soon.
+[[remote-blog/Ato IV - Segredo dos Anciões/Act IV Summary]]. Coming soon.
+[[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]. The players ascend the treacherous Tsolenka Pass while surviving Strahd's predations.
+[[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]. The players retrieve the broken *Sunsword* from the Amber Temple.
+[[remover/Arc T - The Three Fanes]]. The players aid their Barovian friends in order to cleanse the land of Strahd's corruption.
+[[remote-blog/Ato IV - Segredo dos Anciões/Arc U - Dreams of Dawn]]. The players must defeat the vampire Strahd von Zarovich, once and for all.
+[[remote-blog/Ato IV - Segredo dos Anciões/Epilogue]]. Coming soon.
 ## Appendices
-[[Non-Player Characters]]. A compendium of every major NPC in the adventure.
+[[Personagens Não-Jogadores]]. A compendium of every major NPC in the adventure.
 [[Amber Shards]]. A compendium of every amber shard that appears in the adventure.
 [[Glossary]]. A glossary of all new rules or mechanics that are used in the adventure.
 

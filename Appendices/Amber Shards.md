@@ -4,13 +4,13 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 
 > [!info]+ **Finding Amber Shards**
 > The players have an opportunity to obtain an amber shard:
-> * during [[Character Creation]]
-> * after defeating Izek Strazni in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
-> * after raiding the Castle Ravenloft treasury in [[Arc P - Ravenloft Heist]] (see [[#Great Taar Haak, the Five-Headed Destroyer]])
-> * following Scorilo if he loses the boasting match in [[Arc R - Trials of the Mountain]] (see [[#Zrin-Hala, the Howling Storm]])
-> * after defeating the bodaks in [[Arc R - Trials of the Mountain]] (see [[#Sykane, the Soul Hungerer]])
-> * within the [[Arc R - Trials of the Mountain#The Cave of Daggers|Cave of Daggers]] (see [[#Yog the Invincible]])
-> * from the **nothic** Meda in [[Arc S - A Sword of Sunlight]] (see [[#Khirad, the Star of Secrets]])
+> * during [[remote-blog/Capitulo 1 - Começo da Campanha/Character Creation]]
+> * after defeating Izek Strazni in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]] / [[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
+> * after raiding the Castle Ravenloft treasury in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]] (see [[#Great Taar Haak, the Five-Headed Destroyer]])
+> * following Scorilo if he loses the boasting match in [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]] (see [[#Zrin-Hala, the Howling Storm]])
+> * after defeating the bodaks in [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]] (see [[#Sykane, the Soul Hungerer]])
+> * within the [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain#The Cave of Daggers|Cave of Daggers]] (see [[#Yog the Invincible]])
+> * from the **nothic** Meda in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]] (see [[#Khirad, the Star of Secrets]])
 > 
 > You should not, however, add additional shards for the players to obtain.
 
@@ -43,7 +43,7 @@ If the player accepts, they gain the following effects:
 
 * They gain a particular boon, as given in the **Amber Corruption** section below. 
 * They can continue to cast that vestige's spell once per day. Each time they do, they gain a number of levels of exhaustion equal to the number of times they've cast the spell. This number resets only if the player spends three full days without casting the vestige's spell. (For example, if a player casts Fekre's *stinking cloud* spell two days in a row, they receive one level of exhaustion on the first day and two levels of exhaustion on the second day. If the player waits three days before casting the spell again, they will receive only one level of exhaustion for doing so; otherwise, they will receive three additional levels of exhaustion.)
-* They suffer a particular condition, as given in the same section below. The condition is incurable without the aid of a *greater restoration* spell or similar magic. (A player can also receive St. Markovia's healing in [[Arc Q - A Shining Beacon]].) If the condition is cured, the player also loses all of the vestige's gifts, including its spell and boon.
+* They suffer a particular condition, as given in the same section below. The condition is incurable without the aid of a *greater restoration* spell or similar magic. (A player can also receive St. Markovia's healing in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]].) If the condition is cured, the player also loses all of the vestige's gifts, including its spell and boon.
 
 If the player asks the vestige about the condition, the vestige informs them that the condition is a byproduct of the imperfect connection forged by the shards. It invites that player to the Amber Temple to receive the vestige's full gift and complete their transformation.
 

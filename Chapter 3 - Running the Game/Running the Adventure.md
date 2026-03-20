@@ -47,7 +47,7 @@ Strahd's spies, which all understand Common, report the following information, w
 * any spells, weapons, or abilities that the players are seen using; and
 * any locations or NPCs that the players are seen visiting.
 # Encounters with Strahd
-Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see [[Act I - Into the Mists/Arc C - Into the Valley]]), the players may later speak with him at Yester Hill (see [[Arc J - The Stolen Gem]]) and dine with him at Castle Ravenloft (see [[Arc O - Dinner with the Devil]]).
+Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see [[Act I - Into the Mists/Arc C - Into the Valley]]), the players may later speak with him at Yester Hill (see [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]) and dine with him at Castle Ravenloft (see [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]).
 
 Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind* or relit the beacon of Argynvostholt, he refocuses his efforts toward determining whether any of them are worthy to serve as generals or consorts in his court. See ***Arc R: The Tyrant's Trials*** for more information.
 
@@ -55,7 +55,7 @@ Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind*
 > Combat encounters in this guide have been designed using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa), a system that calibrates encounter difficulty to ensure challenging, balanced encounters. Unless specifically provided in this guide, or unless necessary to compete with players using similar tactics, enemies (including Strahd) should not need to use any tactics (e.g., targeting weak players or focus-firing) in order to provide a challenging experience.
 # The Tarokka Reading
 ## The Tome of Strahd
-The contents of the Tome of Strahd are now as described in [[Arc H - The Lost Soul#H9a. Reading the Tome|Arc H - The Lost Soul]].
+The contents of the Tome of Strahd are now as described in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul#H9a. Reading the Tome|Arc H - The Lost Soul]].
 ## The Holy Symbol of Ravenkind
 The *Holy Symbol of Ravenkind* has been revised as follows:
 
@@ -80,7 +80,7 @@ Immediately before the scene in which the players meet Madam Eva, if you are usi
 
 When choosing which card(s) to use for which part of the reading, select the following.
 ### The Tome of Strahd
-The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the **Nine of Glyphs—Traitor*** foretells that it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information about the gallows speaker.
+The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the **Nine of Glyphs—Traitor*** foretells that it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information about the gallows speaker.
 ### The Holy Symbol of Ravenkind
 Place the *Holy Symbol of Ravenkind* in the shrine of Mother Night in the werewolf den (***Five of Swords—Myrmidon***).
 ### The Sunsword

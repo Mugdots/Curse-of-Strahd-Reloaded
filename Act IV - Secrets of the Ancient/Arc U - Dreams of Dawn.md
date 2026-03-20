@@ -7,7 +7,7 @@ If the players reject the Dark Powers’ choice, they awaken to find that Strahd
 With Vallaki saved, however, the players soon learn a grimmer truth: hordes of the dead have risen all across the valley, and an army of thousands more undead is headed toward Vallaki. To stop them, the players must journey to Castle Ravenloft and defeat Strahd—once and for all.
 # U1. The War Council
 ## U1a. The Invitation
-Shortly after the players reconsecrate the final Fane in [[Arc T - The Three Fanes]], they receive an urgent invitation from Lady Wachter asking them to meet with her at Wachterhaus:
+Shortly after the players reconsecrate the final Fane in [[remote-blog/Act IV - Secrets of the Ancient/Arc T - The Three Fanes]], they receive an urgent invitation from Lady Wachter asking them to meet with her at Wachterhaus:
 
 * If the players are in Vallaki, they receive a personal invitation from Stella Wachter, who informs them that her mother has summoned them to Wachterhaus for an urgent meeting. (Stella doesn’t know what the meeting is about.)
 * If the players are in Krezk, they receive a parchment scroll sent via raven, which reads: “I must speak with you tonight. I await you at Wachterhaus. —Burgomistress Fiona Wachter."
@@ -18,14 +18,14 @@ Lady Wachter welcomes the players to Wachterhaus and thanks them for arriving on
 
 Lady Wachter can share the following information:
 
-* After aiding the players in defying Strahd’s will (and killing his servants) in [[Arc T - The Three Fanes]], she is now a traitor to Castle Ravenloft. 
+* After aiding the players in defying Strahd’s will (and killing his servants) in [[remote-blog/Act IV - Secrets of the Ancient/Arc T - The Three Fanes]], she is now a traitor to Castle Ravenloft. 
 * She is unsure what consequences the Fanes’ reconsecration will bring—and how and when Strahd will strike back. “However," she says grimly, “I don’t intend to wait to find out."
 
 The meeting’s attendees have thus far taken the following positions regarding Lady Wachter’s proposal:
 
 * **Lady Wachter.** Lady Wachter believes that Strahd’s counterattack will come swiftly, and that all of Vallaki is likely to suffer for her defiance. She believes that her people are ready to rise up against Castle Ravenloft, and that they must strike first, before Strahd rains destruction upon them.
 * **Father Lucian.** Father Lucian is disturbed by the prospect of Strahd’s wrath, but believes that Vallaki must not move hastily, lest they fall into one of Strahd’s traps. Although he fears the blood and death that may occur from a march on Castle Ravenloft, he reluctantly believes that a confrontation is now inevitable. As such, he believes that a march on Castle Ravenloft may be necessary, but that Vallaki must be given a week to prepare before doing so.
-* **Victor Vallakovich.** Victor believes that Strahd won’t attack Vallaki, and believes that—even if he does—he may be content to simply take Lady Wachter and be done with it. Should Vallaki strike first, he believes, they will seal their own fate and ensure a punishment that rivals the village of Barovia’s. (Though he hasn’t mentioned it, Victor is still angry at Lady Wachter for failing to protect Stella from Strahd’s emissary in [[Arc T - The Three Fanes]].)
+* **Victor Vallakovich.** Victor believes that Strahd won’t attack Vallaki, and believes that—even if he does—he may be content to simply take Lady Wachter and be done with it. Should Vallaki strike first, he believes, they will seal their own fate and ensure a punishment that rivals the village of Barovia’s. (Though he hasn’t mentioned it, Victor is still angry at Lady Wachter for failing to protect Stella from Strahd’s emissary in [[remote-blog/Act IV - Secrets of the Ancient/Arc T - The Three Fanes]].)
 * **Urwin Martikov.** Urwin isn’t certain that Strahd might attack, but believes it to be a viable possibility. Accordingly, he’s thus far advocated a preparation of Vallaki to defend itself—and to march to Castle Ravenloft, if necessary—but making no overt moves unless Urwin’s spies reveal evidence that Strahd is planning to strike back against them. (“The Keepers of the Feather—too terrified of moving into the open—failed to warn the village of Barovia of what they faced," he says, his voice colored with guilt. “We will not make that mistake again.")
 
 Although any individual attendee may require convincing or argument, the attendees of the war council welcome any insight, guidance, and leadership the players are able to provide.
@@ -173,7 +173,7 @@ If the players accept their mission, the burgomasters and their guards depart fr
 > [!profile]+ **The Burgomasters**
 > ***Burgomaster Nikolai Wachter.*** Nikolai assumed the responsibilities—then, within months, the role—of Vallaki’s Burgomaster two years ago, shortly after Lady Wachter—overworked, aging, and fighting off a minor illness—fell down the stairs of Wachterhaus and broke her wrist. Now thirty years old, he’s done his best to fill his mother’s shoes. However, Nikolai’s newfound maturity and responsibilities have set him at odds with his younger brother, Karl, who Nikolai and Stella routinely scold for his immature escapades. Nikolai has largely settled into his position, but occasionally questions his fitness for the role compared to his mother, who continues to manage the family’s day-to-day affairs.
 > 
-> ***Lady Fiona Wachter.*** The sixty-year-old Lady Wachter once regretted the necessity of abdicating her position as Burgomistress, but retirement has brought a sense of comfort that she welcomes in her senior years. She is proud of Nikolai’s performance in her stead, and for Stella’s work in bringing Krezk and Vallaki closer together via her marriage to Ilya Krezkov. Nevertheless, Lady Wachter, who had grown fond of Victor following his assistance in [[Arc H - The Lost Soul]], is occasionally wistful for the union that he may have shared with Stella. 
+> ***Lady Fiona Wachter.*** The sixty-year-old Lady Wachter once regretted the necessity of abdicating her position as Burgomistress, but retirement has brought a sense of comfort that she welcomes in her senior years. She is proud of Nikolai’s performance in her stead, and for Stella’s work in bringing Krezk and Vallaki closer together via her marriage to Ilya Krezkov. Nevertheless, Lady Wachter, who had grown fond of Victor following his assistance in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], is occasionally wistful for the union that he may have shared with Stella. 
 > 
 > Lady Wachter also harbors a quiet regret that, although the Sun briefly returned to Barovia in the form of the *Sunsword*, she was never able to see it again after the players departed through the Mists. Although she does not begrudge the players their decision, she wonders whether victory over Strahd—and true freedom from his reign—may have been within their grasp.
 > 
@@ -208,7 +208,7 @@ The woman resembles Stella from behind. If the players approach or interact with
 <p>"At long last," she says, smiling warmly. “I’ve truly looked forward to meeting you."</p>
 </div>
 
-The woman is Ezra, the goddess of the Mists, and the mask of the Dark Powers. After the players have had an opportunity to react, she asks whether the players know who she is; if they fail to guess either identity, she taps her brooch and asks, with a knowing smile, whether they’ve seen “dear Fiona" wearing anything like it. (Players who have previously seen Lady Wachter’s holy symbol, either in [[Arc T - The Three Fanes]] or otherwise, immediately recognize it as bearing the same iconography.)
+The woman is Ezra, the goddess of the Mists, and the mask of the Dark Powers. After the players have had an opportunity to react, she asks whether the players know who she is; if they fail to guess either identity, she taps her brooch and asks, with a knowing smile, whether they’ve seen “dear Fiona" wearing anything like it. (Players who have previously seen Lady Wachter’s holy symbol, either in [[remote-blog/Act IV - Secrets of the Ancient/Arc T - The Three Fanes]] or otherwise, immediately recognize it as bearing the same iconography.)
 
 Ezra notes that she is “sure the players have so many questions," and that she is glad to answer them. Before she does, however, she asks only that they “listen to a story"—a tale of how this time came to be. If the players agree, Ezra shares the following information:
 
@@ -268,7 +268,7 @@ The dream then ends, and the players awaken at the end of their long rest. When 
 >
 > Now, the dead have risen from every grave in Barovia—marked and unmarked alike—and march to destroy the living. Strahd’s torments of the Devourer’s vestige, as well as the corrupted energies of the Heart of Sorrows, have awoken the Whispering Wall—the Devourer’s divine corpse—and sent it crawling across Barovia toward Castle Ravenloft, mindlessly seeking to shelter and save its tortured spirit. As it does, however, its misted depths swallow up all in its path, imprisoning them in an endless loop of nightmares to fuel its eastward march.
 ### Into Darkness
-When the players awaken at the end of their first long rest after reconsecrating the Fanes in [[Arc T - The Three Fanes]], read:
+When the players awaken at the end of their first long rest after reconsecrating the Fanes in [[remote-blog/Act IV - Secrets of the Ancient/Arc T - The Three Fanes]], read:
 
 <div class="description">
 <p>Your limbs and mind tell you that morning has come—but no light illuminates your resting place. Instead, the skies beyond are as dark as the blackest night, tinged with an eerie, crimson glow.</p>
@@ -289,7 +289,7 @@ If a player looks to the west, read:
 <p>At the wall’s center, a great winged shadow looms over the tiny rooftops below.</p>
 </div>
 
-Players who have previously seen the Whispering Wall in [[Arc J - The Stolen Gem]] can immediately recognize the wall as the Whispering Wall. A player who inspects the shadow and succeeds on a DC 10 Wisdom (Perception) check observes that it resembles an enormous moth or butterfly.
+Players who have previously seen the Whispering Wall in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] can immediately recognize the wall as the Whispering Wall. A player who inspects the shadow and succeeds on a DC 10 Wisdom (Perception) check observes that it resembles an enormous moth or butterfly.
 
 Shortly after the players awaken, one of the following occurs, depending on where the players have rested:
 
@@ -302,7 +302,7 @@ Each zombie bears a glowing crimson symbol on its forehead: the raven-and-keep s
 The following events may occur in any order and at any time shortly after the players defeat the zombies, either separately or concurrently:
 
 * ***The Wall’s Pain.*** To the east, in the mountains where Castle Ravenloft lies, a pulse of crimson light briefly fills the skies—and the winged shadow within the Whispering Wall writhes, a deep, angry rumble echoing through the earth. The wall then moves several dozen feet forward.
-* ***The Dreamer’s Remannts.*** As the players exit onto the streets or look toward the Whispering Wall, if they are in possession of the butterfly statuette from [[Arc J - The Stolen Gem#J4a. Kavan’s Cairn|J4a. Kavan’s Cairn]], or the twilight crest from [[Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. The Whispering Wall]], the item glows a brilliant purple and emits a high-pitched, keening hum. The light and hum increase in intensity if brought closer to the Whispering Wall.
+* ***The Dreamer’s Remannts.*** As the players exit onto the streets or look toward the Whispering Wall, if they are in possession of the butterfly statuette from [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem#J4a. Kavan’s Cairn|J4a. Kavan’s Cairn]], or the twilight crest from [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. The Whispering Wall]], the item glows a brilliant purple and emits a high-pitched, keening hum. The light and hum increase in intensity if brought closer to the Whispering Wall.
 * ***Urwin’s Warning.*** After conferring with his raven spies, a pale-faced Urwin Martikov confirms to the players that the Whispering Wall fills the entire sky, from Mount Baratok to Mount Ghakis, appears to have swallowed up the entire western half of the valley, including Krezk, the Wizard of Wines, and the western edge of Vallaki. He also shares that the wall is expanding eastward rapidly, and that the entirety of Vallaki may be swallowed up in less than an hour. He further shares that strange winged apparitions have been seen emerging from the wall and dragging Vallakians into it. (If asked, Urwin confirms that the winged apparitions resemble butterflies or moths, though he’s startled at how the players made such a guess.)
 * ***Fiona’s Plea.*** Lady Fiona Wachter, flanked by two **cult fanatics** and four **guards** covered in blood and gore, approaches the players with a bloodstained *mace* in hand. She informs the players that the dead have risen from the cemetery of St. Andral’s Church; while they have been largely cleared from the eastern half of the town, many more may still linger to the west. She also shares that a vast host of undead has been spotted approaching the town from the east, led by a pale, white-fleshed undead that emits great clouds of reddish smoke, and will arrive within a quarter-hour. Lady Wachter then kneels before the players, begs them to help defend her town, and informs them that all of Vallaki’s resources are at their disposal. If any of the players accept, Lady Wachter accompanies them to [[#U3j. The Morning Gate]].
 * ***Night Everlasting.*** Any Vallakian can inform the players that, although morning should have come by now, the Moon remains high in the sky, and no daylight has appeared over the horizon.
@@ -394,7 +394,7 @@ When the players emerge from [[#U3d. The Nightmares]], read:
 <p>A lone arch of swirling mist stands ten feet before you, leading west—toward the writhing wall.</p>
 </div>
 
-A player who saw the blood-red skies in [[Arc O - Dinner with the Devil#O8f. The Bloody Keep|O8. Varushka’s Nightmare]] recognizes them as the same color of sky that appeared on the day that Strahd died and became a vampire.
+A player who saw the blood-red skies in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil#O8f. The Bloody Keep|O8. Varushka’s Nightmare]] recognizes them as the same color of sky that appeared on the day that Strahd died and became a vampire.
 
 If the players proceed through the arch, they emerge into [[#U3f. Fall of the Devourer]].
 ## U3f. Fall of the Devourer
@@ -406,7 +406,7 @@ When the players emerge from [[#U3e. Descent of the Mists]], read:
 <p>One of them—a woman—breaks from the group, only to be caught by an older man beside her. “No!" she screams. “Zia is still out there! My Zia, my girl—" She collapses to her knees, sobbing.</p>
 </div>
 
-Any player who has previously visited Soldav recognizes the cliff as [[Arc R - Trials of the Mountain#R5a. The Twin Falls|R5a. The Twin Falls]], and the figures as a group of Mountain Folk.
+Any player who has previously visited Soldav recognizes the cliff as [[remote-blog/Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain#R5a. The Twin Falls|R5a. The Twin Falls]], and the figures as a group of Mountain Folk.
 
 The Mountain Folk, who call themselves the Tauta and don’t recognize the term “Mountain Folk," can share the following information:
 
@@ -511,7 +511,7 @@ When the players emerge from [[#U3h. The Lonely Maid]], read:
 <p>An enormous butterfly, made of fog and swirling mist, hovers above the frozen lake to the north. The butterfly faces east—and as a pulse of crimson light flares through the eastern fog, the air seems to <em>tremble</em> around it, a deep, resonant hum echoing from the butterfly’s wings as it flares a deep, angry violet.</p>
 </div>
 
-Players who have previously visited this location in [[Arc E - The Missing Vistana#E4. Lake Zarovich|Arc E - The Missing Vistana]] recognize it as the mouth of the Luna River, which flows from Lake Zarovich beside Szoldar and Yevgeni’s shack. The players can also recognize the stars and skies as the sight of the Grand Conjunction in the present day.
+Players who have previously visited this location in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana#E4. Lake Zarovich|Arc E - The Missing Vistana]] recognize it as the mouth of the Luna River, which flows from Lake Zarovich beside Szoldar and Yevgeni’s shack. The players can also recognize the stars and skies as the sight of the Grand Conjunction in the present day.
 
 If the players investigate the slab, they find that it bears a carving of a butterfly, its grooves lined with lichen and moss.
 
@@ -744,7 +744,7 @@ The ravens don’t stop to interact with the players, and won’t be diverted fr
 ## U5a. The Castle Gates
 The journey from the crossroads to the castle gates is two and one-half miles long and takes fifty minutes.
 
-The gates of Ravenloft are as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>, with the castle’s drawbridge down. The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
+The gates of Ravenloft are as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>, with the castle’s drawbridge down. The players’ approach is largely as described in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
 
 Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by four **wights**, while two **vampire spawn** cling to the inner walls of the keep. If Volenta Popofsky, Anastraya Karelova, or Ludmilla Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
 
@@ -797,7 +797,7 @@ When the players arrive at the fourth-floor landing, read:
 <p>A shroud of shrieking, ethereal souls surrounds the heart, their screams muted to a dull, distant hum. Beneath them, flashes of images dance across the crystalline surface: treetops; snow-capped mountains; a dark-watered lake; rooftops silvered by the Moon’s light far above.</p>
 </div>
 
-Any player who has previously observed an amber sarcophagus in [[Arc S - A Sword of Sunlight]] recognizes the sliver of darkness as an amber vestige.
+Any player who has previously observed an amber sarcophagus in [[remote-blog/Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight]] recognizes the sliver of darkness as an amber vestige.
 ### Strahd’s Descent
 Almost immediately after the players arrive at the landing, Strahd descends from the North Tower Peak to meet them. Read:
 
@@ -827,7 +827,7 @@ If the players ask about Beucephalus’s corpse, inquire into Strahd’s plans, 
 * Before his slumber, through the reluctant aid of the Vistani seer Madam Eva, Strahd learned of the Grand Conjunction—a time when the barriers between worlds would be thinned, and the energies of the stars aligned. “She is bound to read the fortunes of all who seek them," Strahd says amusedly. “When I awoke, I returned to her to find what Fate required of me to fulfill her ancient foretelling. It must have been Fate, however, that brought me there that day—for it was then that I first encountered a group of strange outsiders to my lands—newcomers whom the old woman had said foretold “the dusk of an era": the end of my imprisonment."
 * To this end, Strahd crafted an ambitious and dangerous ritual to escape the Mists, using the Heart of Sorrow as its conduit and anchor. (“A curious relic," Strahd observes, eyeing the floating Heart. “It appeared on the day of my resurrection, seemingly forged from the blood I had spilled. I do not doubt it was placed here by my would-be jailers, but it is most ironic that it should become my greatest weapon against them.") Strahd’s ritual has four necessary components: a power source, a control mechanism, a catalyst, and a sacrifice.
 * Regarding the power source: Strahd’s plan requires a substantial amount of power—far more than he can supply himself. So long as he remains bonded to the Fanes of Barovia, however, he can channel their power directly into the Heart of Sorrow for use in the ritual. Using the Fanes in the ritual will also allow Strahd to bring the valley itself—and all of its inhabitants—along with him to the Material Plane. Given that Barovia was his final conquest and the centerpiece of his power, Strahd will not relinquish it so easily.
-* Regarding the control mechanism: The raw power of the leylines beneath the Fanes is wild and near-impossible to control. Even as their master, only a token of the Ladies’ divinity can allow Strahd to direct them. Although he initially learned that a child with the blood of the Seeker resided somewhere within the valley, his spies proved unable to locate them in [[Arc E - The Missing Vistana]]—and thus, he was forced to obtain a token of divinity from the Whispering Wall instead in [[Arc J - The Stolen Gem]], sacrificing his **animated armor**—his royal armor, the symbol of his early conquests and might, which he had once enchanted with the aid of the archmage Khazan himself—exchanging a piece of his past for a promise of his future.
+* Regarding the control mechanism: The raw power of the leylines beneath the Fanes is wild and near-impossible to control. Even as their master, only a token of the Ladies’ divinity can allow Strahd to direct them. Although he initially learned that a child with the blood of the Seeker resided somewhere within the valley, his spies proved unable to locate them in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]—and thus, he was forced to obtain a token of divinity from the Whispering Wall instead in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]], sacrificing his **animated armor**—his royal armor, the symbol of his early conquests and might, which he had once enchanted with the aid of the archmage Khazan himself—exchanging a piece of his past for a promise of his future.
 * Regarding the catalyst: While power and control are all well and good, in order to break through a wall, all good conquerors need a point of attack. To this end, Strahd plans to forge a battering ram capable of piercing through the Mists—a siege weapon forged from the souls of the Barovians themselves. The Mists, as creations of the Dark Powers, are born of apathy, fear, and despair. To escape the Mists without drawing their ire, therefore, Strahd intends to surround the Heart of Sorrow with a shell of wailing, hopeless souls. He believes that, by brutally reasserting his dominion over Barovia, his subjects will lose themselves to fear and despair, darkening their souls to meet his needs. (By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come.)
 * To manipulate the Barovians’ souls, Strahd needed a master in the ways of soul magic—and found one in an innocuous sarcophagus tucked away in the Amber Temple. He extracted the vestige from its prison, containing it in the Heart’s crystalline depths, and extracted the knowledge of soul bondage from its mind. (“It resisted," Strahd remarks, “though not for long.")
 * Regarding the sacrifice: The energies of the Mists are attuned to darkness. To escape their clutches, Strahd needed to find a suitable replacement—an accursed creature, whose soul is stained with evil—and sacrifice them as his scapegoat, their soul offered to the Dark Powers as bait as Strahd makes his escape. Although Strahd had intended to use Dr. Rudolph van Richten as a sacrifice, he proved similarly unable to locate the vampire hunter, and so sacrificed Beuceaphalus, his **nightmare**, instead. (“Ah, Beucephalus," Strahd croons softly, without a touch of regret to his voice. “The ever-loyal steed. Even into death, he serves me.")
@@ -873,7 +873,7 @@ A player who inspects the castle’s surroundings from outside the tower can con
 > | 6 | Increase Strahd's hit points in each phase to 373. <ul><li> In his first phase, increase his ***multiattack*** to either two attacks with ***Vampiric Touch*** or one attack of ***Vampiric Touch*** and two uses of ***Telekinetic Grasp***. Increase the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 9d6 damage. Increase the damage of his ***Blindness/Deafness*** reaction to 2d8. </li><li> In his second phase, increase his ***Longsword*** attack to 1d10+5 slashing damage and 2d8 necrotic damage. Increase the damage of his ***Umbral Net*** to 2d8. Increase the damage of his ***Thunderous Wave*** to 3d10. Increase the damage of his ***Dark Volley*** to 4d10. </li><li> In his third phase, increase his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 5d6 necrotic damage. Increase his ***Bats' Frenzy*** to 4d8 necrotic damage. Increase his ***Predator's Fury*** to 2d12+5 force damage. <ul></li>|
 
 > [!info]+ **Strahd’s Statistics**
-> See [[Strahd von Zarovich#Strahd’s Tactics|Strahd’s Tactics]] for more information about Strahd’s statistics and tactics in battle.
+> See [[remote-blog/Capitulo 2 - A Terra de Barovia/Strahd von Zarovich#Strahd’s Tactics|Strahd’s Tactics]] for more information about Strahd’s statistics and tactics in battle.
 
 > [!info]+ **The Heart of Sorrow**
 > The Heart of Sorrow can’t be moved and is immune to all damage while Strahd lives. It’s held aloft by the will of Strahd, and isn’t affected by *dispel magic* or similar magic. In addition, it has the following properties while channeling its stores of power:

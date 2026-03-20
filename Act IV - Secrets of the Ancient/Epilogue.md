@@ -12,9 +12,9 @@ Since escaping Strahd’s armies, the three deserters have lingered by **I. Blac
 
 When the players arrive at the crossroads following their return from Ravenloft, will they find the deserters lingering nearby? If so, will they help Cyrus find new hope in the wake of Strahd’s broken promise, help Lief find new purpose in the destruction of Strahd’s power, and help Pidlwick II find a new home?
 
-***The Town of Vallaki***. When the players departed Vallaki in [[Arc U - Dreams of Dawn]], they left their friends to face an oncoming horde of undead. Through the visions of the Heart of Sorrow, they beheld flashes of Vallaki’s fight against Strahd’s army—visions of death and life alike. Now, as they return to Vallaki, how much of the town will they find standing—and how will the town greet them?
+***The Town of Vallaki***. When the players departed Vallaki in [[remote-blog/Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn]], they left their friends to face an oncoming horde of undead. Through the visions of the Heart of Sorrow, they beheld flashes of Vallaki’s fight against Strahd’s army—visions of death and life alike. Now, as they return to Vallaki, how much of the town will they find standing—and how will the town greet them?
 ### 1a. The Odd Couple
-**When the players first return to I. Black Carriage (p. 37) after completing [[Arc U - Dreams of Dawn]], read:
+**When the players first return to I. Black Carriage (p. 37) after completing [[remote-blog/Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn]], read:
 
 <div class="description">
 <p>A familiar crossroads lies ahead, faintly illuminated in the morning sun. One branch leads west, toward Vallaki, and the other south, toward Barovia.</p> 
@@ -23,7 +23,7 @@ When the players arrive at the crossroads following their return from Ravenloft,
 
 The squat silhouette is Cyrus Belview, who is hiding behind the tree.  Cyrus is joined by the **wight** Lief Lipsiege.
 
-**If the players didn’t retrieve Pidlwick II from Castle Ravenloft in [[Arc P - Ravenloft Heist]], add:
+**If the players didn’t retrieve Pidlwick II from Castle Ravenloft in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]], add:
 
 <div class="description">
 <p>A moment later, something clinks and whirs faintly from the underbrush nearby.</p>
@@ -240,7 +240,7 @@ Shortly after the ceremony, the players are prompted to action by one or both of
 
 A player who treats Victor kindly can convince him to share that he nearly asked Stella to dance with him by the fire after the ceremony, but lost his nerve at the last minute and offered to fetch them honey cakes instead. Victor is uncomfortable with the romantic feelings he’s developed for Stella, and terrified of losing her friendship if he shares them with her. He is grateful for any guidance or counsel the players can provide.
 
-***The Dreamer’s Return.*** If the players redeemed the Dreamer’s heart in [[Arc U - Dreams of Dawn]], a player with the highest passive Wisdom (Perception) score notices a figure watching them from an alleyway. Read:
+***The Dreamer’s Return.*** If the players redeemed the Dreamer’s heart in [[remote-blog/Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn]], a player with the highest passive Wisdom (Perception) score notices a figure watching them from an alleyway. Read:
 
 <div class="description">  
 <p>You feel a prickling on the back of your neck and sense the temperature around you suddenly plummet. Out of the corner of your eye, you catch a figure watching you from a darkened alleyway, its form concealed beneath a pale blue cloak. It lingers beneath your gaze for a moment, regarding you silently—then recedes and vanishes around a corner.</p>  
@@ -321,7 +321,7 @@ Although Cyrus still hopes for an opportunity to cure his family of their madnes
 
 Ithuriel is grimly determined to continue doing what he can to help the Belviews—by making them comfortable, if nothing else. If the players suggest seeking the help of the Huntress at the Forest Fane, he is surprised, but more than willing to assist them.
 ### 3c. Return to the Forest Fane
-If the players return to Yester Hill, they are greeted by a gray-brown **wolf** where the path emerges from the trees—the same wolf they encountered in [[#1b. The New Svalich Road]]. The wolf, a servant of the Huntress, can guide them to the Forest Fane atop Yester Hill. The Fane is largely as the players left it in [[Arc T - The Three Fanes]], except that the oak sapling has grown into a young, sturdy tree, approximately ten feet in height.
+If the players return to Yester Hill, they are greeted by a gray-brown **wolf** where the path emerges from the trees—the same wolf they encountered in [[#1b. The New Svalich Road]]. The wolf, a servant of the Huntress, can guide them to the Forest Fane atop Yester Hill. The Fane is largely as the players left it in [[remote-blog/Act IV - Secrets of the Ancient/Arc T - The Three Fanes]], except that the oak sapling has grown into a young, sturdy tree, approximately ten feet in height.
 
 If the players attempt to commune with the Huntress at the Forest Fane, read:
 
@@ -407,7 +407,7 @@ Before the players depart, if the players helped Doru overcome his bloodthirst i
 ## 5. Escher’s Fate
 Escher’s ultimate fate depends on the players’ choices and actions earlier in the campaign:
 
-* If the players (1) reunited Escher with Doru (e.g., during [[Arc P - Ravenloft Heist]], (2) treated Escher with respect and compassion, and (3) encouraged Escher to seek redemption, run [[#5a. Escher’s Quest]].  
+* If the players (1) reunited Escher with Doru (e.g., during [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]], (2) treated Escher with respect and compassion, and (3) encouraged Escher to seek redemption, run [[#5a. Escher’s Quest]].  
 * If the players achieved only two of these three prerequisites, run [[#5b. Escher’s Isolation]].  
 * If the players achieved only one of these three prerequisites, run [[#5c. Escher’s Temptation]].  
 * If the players achieved none of these three prerequisites, run [[#5d. Escher’s Fall]].

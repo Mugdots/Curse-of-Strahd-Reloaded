@@ -10,7 +10,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 > [!lore]+ **Operations of the Amber Temple**
 > More than two thousand years ago, a secret society of good-aligned wizards built the Amber Temple as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. The society, first founded by an **archmage** and three **mages**, eventually came to include twenty-four **apprentice wizards** (<span class="citation"><em>Monsters of the Multiverse</em>, p. 259</span>), whom the founders trained to expand and continue their work.
 > 
-> In the temple’s early days, the senior members of the society frequently departed its walls to capture and transport additional vestiges, described further in [[Lore of Barovia#Amber Vestiges|Lore of Barovia]]. Once brought to the temple, vestiges were taken to [[#S7d. Ritual Chamber]], where they were sealed inside amber sarcophagi. Once sealed, vestiges were locked away in the [[#East Vaults]], [[#West Vaults]], or—for vestiges of considerable lingering power—the [[#Amber Vault]].
+> In the temple’s early days, the senior members of the society frequently departed its walls to capture and transport additional vestiges, described further in [[remote-blog/Capitulo 2 - A Terra de Barovia/Lore of Barovia#Amber Vestiges|Lore of Barovia]]. Once brought to the temple, vestiges were taken to [[#S7d. Ritual Chamber]], where they were sealed inside amber sarcophagi. Once sealed, vestiges were locked away in the [[#East Vaults]], [[#West Vaults]], or—for vestiges of considerable lingering power—the [[#Amber Vault]].
 >
 > While residing at the temple, the society’s **archmage** stayed in [[#S7. Archmage’s Quarters]], while its senior **mages** kept separate chambers in the [[#West Quarters]] and [[#East Quarters]]. One senior **mage** was always present to supervise the society’s **apprentice wizards**, who slept in bunk beds in the [[#West Barracks]] and [[#East Barracks]]. Senior **mages** and the **archmage** took meals in their own rooms.
 >
@@ -64,11 +64,11 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 > If a player possessing a vestige’s amber shard approaches that vestige’s vault, the vestige whispers the password to its vault, as described in <span class="citation">X33. Amber Vaults (p. 191)</span>, into the player’s ear.
 
 > [!info]+ **The Tyrant’s Third Trial**
-> Each night the players spent in or near the Amber Temple, Strahd scries or tracks them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]]. If his _scrying_ fails, he also personally visits the Amber Temple to determine whether the players are there.
+> Each night the players spent in or near the Amber Temple, Strahd scries or tracks them as described in [[remote-blog/Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]]. If his _scrying_ fails, he also personally visits the Amber Temple to determine whether the players are there.
 >
 > When he first finds the players, Strahd dismounts Beucephalus, greets them, and asks “where they disappeared to" during the time they spent in Soldav. (Strahd isn’t aware of Soldav’s existence or protections). If the players refuse to disclose their knowledge of Soldav, Strahd smiles coldly, then assures them that he’ll find out—sooner or later.
 >
-> Regardless of the players’ answer, Strahd demands that his first victim—the one he first drained or chose during [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|R3b. The Tyrant’s First Trial]]—submit themselves to be bitten again. If the player allows themselves to be bitten, Strahd bites them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Strahd’s Game]].
+> Regardless of the players’ answer, Strahd demands that his first victim—the one he first drained or chose during [[remote-blog/Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|R3b. The Tyrant’s First Trial]]—submit themselves to be bitten again. If the player allows themselves to be bitten, Strahd bites them as described in [[remote-blog/Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Strahd’s Game]].
 >
 > ***Summoning the Roc.*** If the players summon the **roc** of Mt. Ghakis using the *whistle of the Keepers*, the roc arrives from its nest atop the mountain’s peak within three rounds. When it does, read:
 >
@@ -93,7 +93,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > Strahd then turns to the players. “You seem to have made interesting allies indeed," he remarks. “Do not mistake this inconvenience for might—but I presume you know that you cannot stay atop this mountain forever." He smiles coldly, and, for a moment, his crimson eyes seem to glow in the darkness. “Such a shame it would be, of course, if your friends at lower altitudes required your assistance, and you were not there to aid them."
 >
-> Unless the players intervene, Strahd then inclines his head in a mocking bow—first to the roc, then to the players. “Another time, then," he says. He then mounts Beucephalus, bids the players and roc “good evening," and vanishes into the Ethereal Plane. (Strahd doesn’t again return while the players are at Mt. Ghakis. See [[Arc T - The Three Fanes]] for more information about Strahd’s further machinations.)
+> Unless the players intervene, Strahd then inclines his head in a mocking bow—first to the roc, then to the players. “Another time, then," he says. He then mounts Beucephalus, bids the players and roc “good evening," and vanishes into the Ethereal Plane. (Strahd doesn’t again return while the players are at Mt. Ghakis. See [[remote-blog/Act IV - Secrets of the Ancient/Arc T - The Three Fanes]] for more information about Strahd’s further machinations.)
 >
 > Once Strahd departs, the roc can confirm the following information using nods and shakes of its head (though it won’t volunteer information the players don’t already know or suspect):
 >
@@ -101,7 +101,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 > * Its true name is Turul, and it was once the familiar of the Seeker, who is now Madam Eva.
 > * Its nest lies upon the peak of Mt. Ghakis.
 > * It is no friend of Strahd’s.
-> * If the players previously encountered it as a raven in [[Arc M - The Dragon's Manor]], it was the raven they encountered.
+> * If the players previously encountered it as a raven in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]], it was the raven they encountered.
 > * It stole the third enchanted gem from the Wizard of Wines winery at Madam Eva’s instructions. (The roc won’t explain why, or disclose the gem’s location.)
 > * It can’t (and won’t) follow the players to the valley below to aid them in their fight against Strahd. (Its place is Mt. Ghakis.)
 >
@@ -727,7 +727,7 @@ The staff is a *staff of frost*, with the following changes:
 The first time a player picks up the *staff of frost*, if they did so at Vilnius’s request, a soft woman’s voice whispers into their mind: “*Vilnius doesn’t deserve this staff. Use its power to deceive him, and take it for yourself.*"
 
 > [!info]+ **The Whispering Voice**
-> The whispering voice belongs to the Dark Powers, who hope to prevent Vilnius from obtaining the *staff of frost*. A player with a passive Wisdom (Perception) score of 15 or greater discerns that the woman’s voice masks a cacophony of whispers that precede her words. If the player previously heard the whispers of the Dark Powers in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]] or [[Arc Q - A Shining Beacon#The Abbot’s Redemption|Arc Q - A Shining Beacon]], they recognize the whispers as the same.
+> The whispering voice belongs to the Dark Powers, who hope to prevent Vilnius from obtaining the *staff of frost*. A player with a passive Wisdom (Perception) score of 15 or greater discerns that the woman’s voice masks a cacophony of whispers that precede her words. If the player previously heard the whispers of the Dark Powers in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]] or [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon#The Abbot’s Redemption|Arc Q - A Shining Beacon]], they recognize the whispers as the same.
 ## S4b. Western Temple, Lower Floor
 ### West Hall
 <span class="citation">This scene takes place in Chapter 13, Areas X5d and X36.</span>
@@ -799,7 +799,7 @@ This area is largely as described in <span class="citation">X33d. Breached Vault
 If the player passes through the amber archway or accepts Delban’s gift, the telepathic connection ends, and the player returns to their previous senses.
 
 > [!info]+ **North Sarcophagus (Tomb of the Devourer).**  
-> If a player approaches this sarcophagus while in possession of the butterfly statuette from [[Arc J - The Stolen Gem#J4a. Kavan’s Cairn|J4a. Kavan’s Cairn]], or the *twilight crest* from [[Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. The Whispering Wall]], the item glows purple and emits a soft, keening hum.  (The light and hum fade after 1 minute, or if the item is removed from the room.)
+> If a player approaches this sarcophagus while in possession of the butterfly statuette from [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem#J4a. Kavan’s Cairn|J4a. Kavan’s Cairn]], or the *twilight crest* from [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. The Whispering Wall]], the item glows purple and emits a soft, keening hum.  (The light and hum fade after 1 minute, or if the item is removed from the room.)
 
 > [!lore]+ **The Broken Sarcophagus**
 > When the wizards of the Amber Temple first set off to contain the vestiges of evil entities, the vestige of the Devourer—the youngest sister of the Ladies of the Fanes, once known as the Dreamer—was the first that they found. They extracted her divine soul from the Whispering Wall, her corpse, and sealed it away within an amber sarcophagus. Still inexperienced in the art of sealing vestiges, the wizards’ ritual overlooked a single parameter in the Devourer’s binding—and ever since, a thin layer of the Dreamer’s mist has blanketed the temple floor. When the Dark Powers first wove Vilnius’s prison, it was this mist, tinged with divine power, that they used to do so. Two millenia later, the Dark Powers, empowered by Strahd’s evil and the nourishment they had taken from the souls entrapped in the Amber Temple, spun Mists of their own, which they used to imprison the land of Barovia.
@@ -1662,7 +1662,7 @@ If a player touches the **west sarcophagus** (the tomb of the Vampyr), read:
 </div>
 
 > [!abstract]+ **The Radiant Relics**
-> If the player carries the [[Character Creation#Faith—The Sunrise Medallion|Sunrise Medallion]] or [[Character Creation#Justice—The Broken Blade|Broken Blade]], the relic responds as follows:
+> If the player carries the [[remote-blog/Capitulo 1 - Começo da Campanha/Character Creation#Faith—The Sunrise Medallion|Sunrise Medallion]] or [[remote-blog/Capitulo 1 - Começo da Campanha/Character Creation#Justice—The Broken Blade|Broken Blade]], the relic responds as follows:
 >
 > * The medallion flickers with golden light, growing stronger and brighter as it approaches the bloody canal and, eventually, the *Sunsword* concealed beneath it.
 > * The broken blade emits a high-pitched hum and trembles violently, spinning like a compass needle in the direction of the bloody canal and, eventually, the *Sunsword* concealed beneath it.
@@ -2064,10 +2064,10 @@ Without a ritual to bind a soul to the *Sunsword*, the players must find and con
 > The players have great freedom to choose a suitable soul to inhabit the *Sunsword*. However, not all spirits are equally available or receptive. Some of those spirits’ reactions (and the players’ ability to contact them) are described below.
 >
 > * **Exethanter.** Exethanter’s spirit amusedly declines, noting that he would be “wholly unsuitable" for such a task. (*Exethanter, who is Lawful Neutral and bears no personal enmity toward Strahd, has a resonance level of 0.*)
-> * **Erasmus van Richten.** Erasmus’s spirit cannot enter the Material Plane until the players lift Rudolph van Richten’s curse in [[Arc T - The Three Fanes]]. Once they do, a player who has befriended Erasmus can convince him to possess them and inhabit the *Sunsword*. Erasmus otherwise politely declines, insisting that he is dedicated to fighting alongside and protecting his father. (*Erasmus, who is Chaotic Good and is dedicated to the freedom of Barovia, has a resonance level of 3.*)
-> * **St. Markovia.** St. Markovia cannot possess a player unless first summoned by means of a seance, as in [[Arc K - The Fallen Abbey]]. (However, if the players failed to redeem the Abbot in [[Arc Q - A Shining Beacon]], the seance fails, and Markovia does not appear.) Once summoned, Markovia is honored by the players’ request, but expresses doubt as to her ability to oppose Strahd, given her defeat at his hands nearly four centuries ago. If reassured, Markovia agrees to inhabit the *Sunsword* and fight alongside them. (*Markovia has a resonance level of 3.*)
+> * **Erasmus van Richten.** Erasmus’s spirit cannot enter the Material Plane until the players lift Rudolph van Richten’s curse in [[remote-blog/Act IV - Secrets of the Ancient/Arc T - The Three Fanes]]. Once they do, a player who has befriended Erasmus can convince him to possess them and inhabit the *Sunsword*. Erasmus otherwise politely declines, insisting that he is dedicated to fighting alongside and protecting his father. (*Erasmus, who is Chaotic Good and is dedicated to the freedom of Barovia, has a resonance level of 3.*)
+> * **St. Markovia.** St. Markovia cannot possess a player unless first summoned by means of a seance, as in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]. (However, if the players failed to redeem the Abbot in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]], the seance fails, and Markovia does not appear.) Once summoned, Markovia is honored by the players’ request, but expresses doubt as to her ability to oppose Strahd, given her defeat at his hands nearly four centuries ago. If reassured, Markovia agrees to inhabit the *Sunsword* and fight alongside them. (*Markovia has a resonance level of 3.*)
 > * **Sir Godfrey Gwilym.** Sir Godfrey’s spirit appears if called within the walls of Argynvostholt. He is honored to fight at the players’ side, and swiftly agrees to inhabit the *Sunsword*. (*Sir Godfrey has a resonance level of 3.*)
-> * **The Recently Deceased.** The players can summon the spirit of any character who has died in Barovia since their arrival by carrying out a seance, as described in [[Arc K - The Fallen Abbey]]. The seance must be carried out near either the character’s place of death or a place that held great meaning to them in life. Certain souls may require additional persuasion, at your discretion. (The spirits of characters who died before the players’ arrival have already been reincarnated, and cannot be summoned by means of a seance.)
+> * **The Recently Deceased.** The players can summon the spirit of any character who has died in Barovia since their arrival by carrying out a seance, as described in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]. The seance must be carried out near either the character’s place of death or a place that held great meaning to them in life. Certain souls may require additional persuasion, at your discretion. (The spirits of characters who died before the players’ arrival have already been reincarnated, and cannot be summoned by means of a seance.)
 
 > [!info]+ **The Shining Sunlight**
 > The first time the players bind or infuse a soul into the *Sunsword*, read:
@@ -2089,7 +2089,7 @@ Without a ritual to bind a soul to the *Sunsword*, the players must find and con
 > The pillar of radiance is visible to all creatures in Barovia. Once the *Sunsword* is ignited, Strahd won't leave Castle Ravenloft unless the players are dead.
 
 > [!info]+ **The Monster**
-> When Strahd first learns that the *Sunsword* is ignited, his persona changes from the Tyrant to the Monster. See [[Strahd von Zarovich]] for more information about roleplaying the Monster.
+> When Strahd first learns that the *Sunsword* is ignited, his persona changes from the Tyrant to the Monster. See [[remote-blog/Capitulo 2 - A Terra de Barovia/Strahd von Zarovich]] for more information about roleplaying the Monster.
 
 # S7. Archmage’s Quarters
 ## S7a. Stair of Wisdom

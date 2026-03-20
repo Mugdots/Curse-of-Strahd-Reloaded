@@ -106,7 +106,7 @@ At the players’ request, Godfrey can share the following information regarding
 * Not ten years after the Order first settled at Argynvostholt, Strahd von Zarovich brought war to the lands surrounding the valley. The Order ranged far afield to defend against Zarovich’s invading armies and shelter those made refugees by the violence, but ultimately found itself driven back to the valley and, ultimately, the mansion of Argynvostholt.
 
 > [!abstract]+ **The Dragon's Scale**
-> If a player in possession of the [[Character Creation#Inheritance—The Dragon's Scale|Dragon's Scale]] reveals it to Godfrey, the knight is briefly overcome with emotion and asks, hoarsely, to be allowed to see it more closely. He recognizes it aloud as one of Argynvost's own scales, and asks the player how they came upon it. If the player treats Argynvost's scale and legacy with reverence and respect, they have advantage on Charisma checks made toward Godfrey unless he becomes hostile to them.
+> If a player in possession of the [[remote-blog/Capitulo 1 - Começo da Campanha/Character Creation#Inheritance—The Dragon's Scale|Dragon's Scale]] reveals it to Godfrey, the knight is briefly overcome with emotion and asks, hoarsely, to be allowed to see it more closely. He recognizes it aloud as one of Argynvost's own scales, and asks the player how they came upon it. If the player treats Argynvost's scale and legacy with reverence and respect, they have advantage on Charisma checks made toward Godfrey unless he becomes hostile to them.
 
 Godfrey then asks the players whether they would seek to betray and abandon their comrades if forced to fight a hopeless battle, or if they would fight alongside them to the death. If he is satisfied that any of the players would choose loyalty over selfishness, he gently chides any who would do the opposite, then proceeds:
 
@@ -167,7 +167,7 @@ Godfrey notes that these warlike spirits cannot be dissuaded from their mad crus
 > * A spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells. (The fang isn't consumed when used in this way.)
 > * A martial combatant can also deal damage to an incorporeal spirit normally by coating one weapon or up to three pieces of ammunition with phase spider venom or *holy water*. When applied in this way, the venom or *holy water* acts as a contact poison that nullifies the spirit's immunity to the coated weapon, except the coating remains potent for 10 minutes and isn't rendered impotent by touching an incorporeal creature.
 >   
-> The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Arc E - The Missing Vistana]] or [[Arc H - The Lost Soul]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Arc E - The Missing Vistana]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Arc K - The Fallen Abbey]]).
+> The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]] or [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[remote-blog/Act III - The Broken Land/Arc K - The Fallen Abbey]]).
 
 Godfrey notes, however, that these hostile spirits *can* be deceived. If the players feel they need protection from the manor's hostile spirits, Sir Godfrey advises them to travel south from the Luna River Crossroads, to a point where the Luna River briefly becomes a small lake with an island.
 
@@ -242,7 +242,7 @@ If the players allow the figure to approach, read:
 <p>"I thought this one's wounds looked like a dire elk's antlers," the woman muses, peering over the wolf's ears toward the elk. "This is a lucky day indeed."</p>
 </div>
 
-The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
+The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
 
 > [!info]+ **Wensencia and Her Steed**
 > Wensencia is a **Barovian witch** with 33 hit points, a +3 proficiency bonus, and the following spells prepared:
@@ -257,7 +257,7 @@ The woman is Wensencia, a student of Baba Lysaga. (Players who previously encoun
 > [!profile]+ **Wensencia, Swamp Witch**
 > Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic. She should make the players feel irritated, uncomfortable, intrigued, and insulted, and most often feels annoyed, disinterested, curious, thoughtful, smug, or melancholy.
 
-If the players previously encountered her in [[Arc I - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
+If the players previously encountered her in [[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
 
 * She is Wensencia, a student of Mother Lysaga of Berez. (If the players refer to Baba Lysaga as "the swamp witch," Wensencia sneers and instructs them to "refer to Mother Lysaga with respect").
 * She was out by the eastern shore of the Luna River picking mandrake roots (as alchemical ingredients) when she found the corpse of a **dire wolf**, evidently killed by a dire elk. Fascinated by the rare prospect of finding a whole, fresh dire wolf corpse, she reanimated it and set off to track down its killer, hopeful that the elk might still be in the vicinity.
@@ -854,7 +854,7 @@ Brother Marek is glad to share his belief that the Order’s fate is damnation f
 
 If the players insist that they intend to destroy Strahd von Zarovich, Brother Marek barks a bitter laugh. “Better warriors than you have marched on Castle Ravenloft," he remarks, “and yet their work has only swelled the ranks of the dead, while the vampire still rules from his shadowed towers. When the Order’s dead marched on Castle Ravenloft four centuries ago, the seer Madam Eva told them that this land had become an eternal prison, forever bound in the Mists. What hope have you, where so many have failed?"
 
-The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Charisma (Persuasion) check, with advantage if they mention Godfrey's request or their defeat of Volenta Popofsky in [[Arc D - St. Andral's Feast]] or Ludmilla Vilisevic in [[Arc J - The Stolen Gem]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
+The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Charisma (Persuasion) check, with advantage if they mention Godfrey's request or their defeat of Volenta Popofsky in [[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] or Ludmilla Vilisevic in [[remote-blog/Act III - The Broken Land/Arc J - The Stolen Gem]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
 
 > [!abstract]+ **Legacy of the Sunsword**
 > If told of the *Sunsword*’s foretelling, Brother Marek stirs in shock. He can inform the players that he once heard of a similar sword—King Barov II’s *Brightblade*, an enchanted sword that glowed with the light of the sun. “Strahd von Zarovich never wielded it in battle against us," he says, thoughtfully. “I had heard rumors that it had been passed down to Barov’s younger son, then rumors it had been destroyed. If it still exists, it may be one of the only weapons capable of destroying the beast that Zarovich has become."
@@ -1140,13 +1140,13 @@ While in his second form, Vladimir attempts to use his ***vengeful rush*** react
 * If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
 
 > [!warning]+ **Failing Forward**
-> The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
+> The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[remote-blog/Act III - The Broken Land/Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
 > 
 > If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in <span class="citation">Q15. Cemetery (p. 134)</span> and returns to the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>. 
 > 
 > The players can learn that their weapons have been buried in the cemetery by asking Sir Godfrey, and can locate the particular grave with a DC 5 Intelligence (Investigation) check, or by digging up all of the graves in the cemetery. Sir Godfrey apologizes deeply for Vladimir's violence, but shares that Vladimir has recently returned to his audience hall, clearing the way should the players wish to continue exploring the upper reaches of the manor.
 > 
-> Once he returns to the audience hall after successfully ***oathbinding*** the players, Vladimir doesn’t attack them again until after they retrieve Argynvost's skull in [[Arc P - Ravenloft Heist]].
+> Once he returns to the audience hall after successfully ***oathbinding*** the players, Vladimir doesn’t attack them again until after they retrieve Argynvost's skull in [[remote-blog/Act III - The Broken Land/Arc P - Ravenloft Heist]].
 
 The first time Vladimir’s second form is reduced to 50 hit points or fewer, he snarls: “If you destroy this body, my spirit will find a new corpse to inhabit, and I will hunt you down."
 
@@ -1168,4 +1168,4 @@ The gargoyle then whispers the short verse described in <span class="citation">Q
 ***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
 
 > [!info]+ **Returning the Skull**
-> The players can return Argynvost's skull to his crypt in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].
+> The players can return Argynvost's skull to his crypt in [[remote-blog/Act III - The Broken Land/Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[remote-blog/Act III - The Broken Land/Arc P - Ravenloft Heist]].
