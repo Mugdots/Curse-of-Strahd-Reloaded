@@ -2,7 +2,7 @@
 The land of Barovia is a "demiplane"—a small, self-contained plane of existence. It is one of many Domains of Dread, which together occupy a small corner of the Shadowfell. 
 
 Like all of the Domains of Dread, Barovia is entrapped by the mists of Ravenloft, as described in <span class="citation">Mists of Ravenloft (p. 23)</span>, and ruled by the mysterious Dark Powers. The Dark Powers are nameless, shapeless entities that serve as the jailers of the "Darklords" of the Domains: evil individuals who have committed unspeakable crimes. Strahd von Zarovich is one such Darklord.
-
+asd
 Precious few—including only archmages, scholars, and (at times) the Darklords themselves—know that the Dark Powers exist. Fewer still know of their true nature and origins. While the Dark Powers were born from the miasma of evil that dwells within the Amber Temple of Barovia, they are not themselves the vestiges—the non-sapient fragments of dead, malevolent gods—that are sealed within the sarcophagi of the temple. (For more information about the vestiges of the Amber Temple, see <span class="citation">The Amber Temple (p. 181)</span>.)
 
 The Dark Powers do not necessarily seek to corrupt those they encounter. Instead, for certain individuals, they seek to offer a choice between darkness and light—and to punish and ensnare those who fall to their temptations. In this adventure, two such individuals are Strahd von Zarovich and Ireena Kolyana.
