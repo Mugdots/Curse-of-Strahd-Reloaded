@@ -7,11 +7,11 @@ The players have until the night of their fifth day after arriving in Vallaki to
 Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
 
 > [!abstract]+ **An Early Start**
-> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Willemina Rikalova (see [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Willemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
+> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Willemina Rikalova (see [[Ato I - Nas Brumas/Arco C - Dentro do Vale#Saindo da pousada|Arco C - Dentro do Vale]] for more information about Willemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
 > 
 > If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
 > 
-> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
+> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Ato I - Nas Brumas/Arco C - Dentro do Vale#Conselho de Urwin| Arco C - Dentro do Vale]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
 
 > [!info]+ **Want a Hand?** 
 > Want access to a Discord community of _Reloaded_ DMs, on-demand campaign help from the author, and one-on-one session prep and mentoring? Check out the author's [Patreon](https://patreon.com/dragnacarta "Patreon (https://patreon.com/dragnacarta)") 
@@ -259,7 +259,7 @@ If one of the players expresses an interest in breaking into the wagon, [[Person
 
 If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of Erasmus van Richten, a **poltergeist** seeking to protect Arabelle by scaring visitors away.)
 
-If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]].)
+If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]].)
 # D4. Coffin Maker's Shop
 <span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
 
@@ -511,13 +511,13 @@ If any of the players are reduced to 0 hit points, Father Lucian spends his acti
 ### 3. The Vampire Spawn
 The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
 # D5. Retrieving the Bones
-If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]. 
+If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]. 
 
 **_Milestone_**. Returning the bones of St. Andral completes a story milestone. Upon returning them to the church, award each player 1,250 XP.
 # D6. Rahadin's Visit
-At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]] or following [[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
+At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]] or following [[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
 ## D6a. The Invitation
-Rahadin next rides to the Blue Water Inn or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]], before departing.
+Rahadin next rides to the Blue Water Inn or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]], before departing.
 
 Shortly after Rahadin leaves, a red-faced, sobbing Yeska approaches the players and pleads with them to quickly come to the town square. Milivoj, he tells them, has been taken prisoner by the town guard, and is set to be executed. (Father Lucian, who has already gone to the town square to call for clemency, sent Yeska to find and summon the players when Milivoj was taken from the church grounds.)
 ## D6b. The Trial
@@ -724,7 +724,7 @@ Milivoj himself has been relocated to his family home—both to show (not tell) 
 
 ***Arasek Stockyard.*** Erasmus' ghost has been added to discourage the players from investigating the wagon while also carefully avoiding *encouraging* them to do it out of spite.
 
-The fresh paint for the Carnival of Wonders sign has been added to intentionally foreshadow that Rictavio (who the players will confront in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]) is not all that he seems.
+The fresh paint for the Carnival of Wonders sign has been added to intentionally foreshadow that Rictavio (who the players will confront in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]) is not all that he seems.
 
 ***Coffin Maker's Shop.*** Volenta's two traps have been added to increase the probability that the players do battle with the vampires, thereby introducing them directly to Strahd's minions and the threat posed by vampires. The number of **vampire spawn** has been reduced from six to three, including Volenta, to ensure that the encounter is balanced for a 4th-level party.
 

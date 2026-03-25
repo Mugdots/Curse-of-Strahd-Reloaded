@@ -17,7 +17,7 @@ Se os jogadores matarem o monstro, a casa começa a desmoronar, obrigando eles f
 > If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
 
 # A2. Death House
-If one or more of your players are using the [[remote-blog/Capitulo 3 - Começando o Jogo/Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
+If one or more of your players are using the [[ /Capitulo 3 - Começando o Jogo/Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
 
 <div class="description">
 <p>Highharvesttide in Daggerford. It’s a time of joy and celebration, of hearth and home, of golden laughter ringing out into the night. But tonight, as a storm has swept over the town, you find yourselves apart from the warmth and revelry, drawn into the cold, dark embrace of mystery.</p>
@@ -319,7 +319,7 @@ Na mão esquerda do esqueleto há uma carta com o selo de Strahd von Zarovich, q
 Os jogadores não reconhecem o nome "Strahd von Zarovich."
 
 > [!design]- **Design Note: Removing the Deed**
-> Players who find the deed to Old Bonegrinder in the secret chest often come to the mistaken conclusion that looting the deed makes them the new owners of the mill. Such players are likely, as a result, to attempt to explore the windmill during [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley]], triggering a conflict with the night hag coven and—through no fault of their own—a likely TPK. As such, the deed has been removed to help avoid this outcome.
+> Players who find the deed to Old Bonegrinder in the secret chest often come to the mistaken conclusion that looting the deed makes them the new owners of the mill. Such players are likely, as a result, to attempt to explore the windmill during [[Arco C - Dentro do Vale]], triggering a conflict with the night hag coven and—through no fault of their own—a likely TPK. As such, the deed has been removed to help avoid this outcome.
 
 
 ### 10. Conservatório

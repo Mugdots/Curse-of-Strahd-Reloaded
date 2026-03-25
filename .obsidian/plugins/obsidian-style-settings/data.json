@@ -1,0 +1,14 @@
+{
+  "ITS@@ITS-Sizes": "none",
+  "ITS@@lig": true,
+  "ITS@@bold-weight": 900,
+  "ITS@@bold-color@@dark": "#C5E9CB",
+  "ITS@@ITS-Note-Title-Styling": "none",
+  "ITS@@Inline-Title-Styling": "none",
+  "ITS@@header-weight": 700,
+  "ITS@@header-border-line-height": 4,
+  "ITS@@heading-spacing": 10,
+  "ITS@@select": "dnd",
+  "ITS@@bold-color@@light": "#C5E9CB",
+  "ITS@@italic-color@@dark": "#C5E9CB"
+}

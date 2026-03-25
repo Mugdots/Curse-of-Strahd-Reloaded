@@ -54,7 +54,7 @@ The road to Krezk is as described in <span class="citation">S1. Road Junction (p
 # I2. The Gates of Krezk
 <span class="citation"><em>This scene takes place in Chapter 8: Area S2.</em></span>
 
-The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
+The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
 
 > [!profile]+ **Profile: Baron Dmitri Krezkov**
 > **Roleplaying Information.**
@@ -169,7 +169,7 @@ Upon arriving at the base of the stump on which the hut is perched, if Wensencia
 
 If the players enter the hut, they find Baba Lysaga humming a lullaby above the illusory child and crib. Otherwise, the lullaby ends one minute after the players arrive; if Baba Lysaga was alerted to the players’ arrival by the **greater strix**, she then emerges to greet them.
 
-Baba Lysaga is tentatively willing to grant the players an audience, assuming they have not yet battled the druids occupying the Wizard of Wines winery in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] (If the players have already done so, Baba Lysaga attacks them on sight.) However, if the players offend Baba Lysaga—such as by asserting that the baby in the crib is illusory and proceeding to argue about it, or by expressing distaste for Strahd and refusing to apologize to the “baby”—she orders them to leave her hut, attacking if they refuse.
+Baba Lysaga is tentatively willing to grant the players an audience, assuming they have not yet battled the druids occupying the Wizard of Wines winery in [[/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] (If the players have already done so, Baba Lysaga attacks them on sight.) However, if the players offend Baba Lysaga—such as by asserting that the baby in the crib is illusory and proceeding to argue about it, or by expressing distaste for Strahd and refusing to apologize to the “baby”—she orders them to leave her hut, attacking if they refuse.
 
 > [!abstract]+ **Lysaga's Wrath**
 > If she successfully knocks them unconscious, Baba Lysaga magically polymorphs the players into **goats** and locks them in her goat pen (described below), where they awaken 1d4 + 1 hours later. There, the players are met by a Barovian **scout** named Darzin Voltanescu, who has been polymorphed into a goat like them.
@@ -228,7 +228,7 @@ The village of Krezk is as described in <span class="citation">S3. Village of Kr
 * Ilya, his elder son, is thirteen years old and went missing several days ago. (Although Baron Krezkov won't mention, Ilya went missing on the night of the full moon on Octyavr 22, exactly fourteen days before the most recent full moon on Neyavr 8.)
 * Kala, his younger daughter, is eight years old and alive.
 
-If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Wisdom (Insight) check notices that a shadow crosses the Baron's face at the mention of the Abbot.
+If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Wisdom (Insight) check notices that a shadow crosses the Baron's face at the mention of the Abbot.
 
 ***Milestone.*** Obtaining Baba Lysaga’s aid completes a story milestone. When the players first gain safe passage through Krezk’s village gates, award each player 750 XP.
 ## I6a. The Blessed Pool
@@ -270,4 +270,4 @@ If the players ask his identity, the Abbot introduces himself as the Abbot of th
 
 If asked the source of his power, the Abbot laughs softly, stating only: "Beneath the Morninglord's light, all things are possible."
 ## I6b. The Abbey of St. Markovia
-If the players have journeyed to Krezk to seek a cure for cackle fever or their foretold ally, they must ascend the switchback road to the Abbey of St. Markovia, where the Abbot is happy to cure any disease with his ***healing touch*** without payment. See [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]] for more information about visiting the Abbey.
+If the players have journeyed to Krezk to seek a cure for cackle fever or their foretold ally, they must ascend the switchback road to the Abbey of St. Markovia, where the Abbot is happy to cure any disease with his ***healing touch*** without payment. See [[/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]] for more information about visiting the Abbey.

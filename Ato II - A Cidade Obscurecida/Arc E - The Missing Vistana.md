@@ -16,7 +16,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 
 > [!lore]+ **Strahd’s Bounty**
 >
-> When Strahd received Madam Eva’s [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley#C8. Black Carriage|most recent foretelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
+> When Strahd received Madam Eva’s [[Ato I - Nas Brumas/Arco C - Dentro do Vale#C8. Carruagem Sombria|Arco C - Dentro do Vale]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
 >
 > Strahd knows that a descendant of one of the Ladies lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
 > 
@@ -54,11 +54,11 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 >
 > Meanwhile, Van Richten plans to deliver Arabelle food from the Blue Water Inn’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see <span class="citation">Van Richten's Guide to Ravenloft, p. 180</span>)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
 >
-> Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[remote-blog/Capitulo 2 - A Terra de Barovia/Lore of Barovia#Guardiões das Pena|Guardições das Pena]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
+> Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Capitulo 2 - A Terra de Barovia/Lore of Barovia#Guardiões das Pena|Guardiões das Penas]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
 # E1. Blinsky Toys
 <span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
 
-After receiving Madam Eva’s request in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
+After receiving Madam Eva’s request in [[Ato I - Nas Brumas/Arco C - Dentro do Vale]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
 
 
 > [!profile]+ **Profile: Gadof Blinsky**
@@ -246,7 +246,7 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 # E3. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3.</em></span>
 
-The burgomaster's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information about the mirror.
+The burgomaster's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information about the mirror.
 
 If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
 ## E3a. Entering the Mansion
@@ -376,7 +376,7 @@ Victor’s workroom is largely as described in <span class="citation">N3t. Victo
 
 > [!Warning]+ Counterspell 2024
 > 
-> This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul#Battle with the Hags|Arc H - The Lost Soul]].
+> This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul#Battle with the Hags|Arc H - The Lost Soul]].
 
 
 Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> against the wall beside the rug.
@@ -416,7 +416,7 @@ Victor can tell the players that, while Szoldar and Yevgeni spend most mornings 
 > 
 > If caught in an evident lie, Victor confesses that the noises are likely caused by a spirit that haunts the house, but begs the players not to tell anyone for fear that the Baron might see fit to exorcise it. Victor promises to ensure the spirit keeps quiet, insisting that she likely didn't know that she was disturbing anyone. (Victor declines to introduce the spirit if asked, claiming that she's shy.) 
 > 
-> Victor doesn't reveal the spirit's true identity (Stella Wachter) or origins. See [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information.
+> Victor doesn't reveal the spirit's true identity (Stella Wachter) or origins. See [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information.
 
 > [!lore]+ **Khazan’s Staff**
 >
@@ -424,7 +424,7 @@ Victor can tell the players that, while Szoldar and Yevgeni spend most mornings 
 >
 > According to the spellbook, a magical binding allowed Khazan to summon it by merely speaking his own name. With the aid of Khazan’s staff, Victor believes he may be able to rescue Stella’s soul from the Ethereal Plane and restore it to her body.
 >
-> Victor is, however, mistaken. Unlike the archmage’s spellbook, Strahd recovered Khazan’s staff from the remnants of his body. It is now concealed in <span class="citation">Crypt 15 (p. 88)</span> in Castle Ravenloft. See [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]] for more information about Khazan's staff.
+> Victor is, however, mistaken. Unlike the archmage’s spellbook, Strahd recovered Khazan’s staff from the remnants of his body. It is now concealed in <span class="citation">Crypt 15 (p. 88)</span> in Castle Ravenloft. See [[/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]] for more information about Khazan's staff.
 
 # E4. Lake Zarovich
 <span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
@@ -697,7 +697,7 @@ If read, the burned journal page now reads only as follows:
 <p>In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time on my weary shoulders. Today I am a man who has simply lived too long. Like a regretful lich, I find myself inexorably bound to an existence I sought out of madness and, seemingly, must now endure for all eternity. Of course I shall die, but whether I shall ever rest in my grave haunts my idle thoughts, and torments me in my dreams.</p>
 </div>
 
-The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Arco B - Bem Vindo a Barovia#Salões da Mansão|Arco B - Bem Vindo a Barovia]] and the manuscript on werewolves obtained in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley#C4d. The Dancing Fire|Arc C - Into the Valley]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
+The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Arco B - Bem Vindo a Barovia#Salões da Mansão|Arco B - Bem Bindo a Barovia]] and the manuscript on werewolves obtained in [[Ato I - Nas Brumas/Arco C - Dentro do Vale#C4d. O Fogo Dançante|Arco C - Dentro do Vale]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
 # E7. The Road Back
 The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
 
@@ -805,7 +805,7 @@ In battle, the werewolves prioritize players wielding silvered weapons, if any. 
 The players experience no other encounters on their journey to Vallaki.
 
 > [!info]+ **The Curse of Lycanthropy**
-> If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley#C11. The Werewolves' Hunt|Arc C - Into the Valley]] for more information about the curse.
+> If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Ato I - Nas Brumas/Arco C - Dentro do Vale#C11. A Caçada dos Lobisomens|Arco C - Dentro do Vale]] for more information about the curse.
 # E8. Return to Vallaki
 The players' return to Vallaki from Lake Baratok is three and one-quarter miles long and takes approximately one hour.
 
@@ -1040,7 +1040,7 @@ In addition, though he won’t take up arms against Strahd or cease his work as 
 >
 > If one of the players was infected by a werewolf’s bite on the Old Svalich Road, Van Richten shares that he is capable of brewing an elixir capable of suppressing the curse of lycanthropy for a single night, rendering the player a docile wolf during a full moon, rather than a raging werewolf.
 >
-> To do so, however, he requires a supply of wolfsbane, a flowering plant said to grow along the shores of a blessed pool in Krezk. (See [[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]] for more information about the players’ efforts to gain entry to Krezk.) Van Richten is glad to brew one portion of the elixir for each wolfsbane flower that the players fetch for him, a process which requires six hours and a number of additional ingredients.
+> To do so, however, he requires a supply of wolfsbane, a flowering plant said to grow along the shores of a blessed pool in Krezk. (See [[Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]] for more information about the players’ efforts to gain entry to Krezk.) Van Richten is glad to brew one portion of the elixir for each wolfsbane flower that the players fetch for him, a process which requires six hours and a number of additional ingredients.
 
 > [!abstract]+ **Inspecting Ireena**
 > If the players ask Van Richten to inspect Ireena's vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.) Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
@@ -1056,7 +1056,7 @@ This arc aims to remedy both issues simultaneously, providing Van Richten with a
 
 In the process, the arc provides the players with an opportunity to venture west beyond Vallaki's walls, alleviating the sense of suffocating claustrophobia that many parties describe following several consecutive sessions in the town.
 
-***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] instead), and to further develop Izek Strazni's relationship with Ireena Kolyana, explored further in [[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]].
+***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] instead), and to further develop Izek Strazni's relationship with Ireena Kolyana, explored further in [[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]].
 
 ***Vistani Encampment.*** Luvash, Arrigal, and the entire Vistani tribe have been made more sympathetic in order to encourage the players to build a long-term relationship with them, to further develop the adventure's themes of unity and redemption over selfishness and mistrust, and to further motivate the players to locate Arabelle and find a solution that reunites her with her family.
 
@@ -1066,19 +1066,19 @@ The plotline involving the signet ring has been added to provide Luvash with a r
 
 ***Dusk Elf Hovels.*** In order to discourage the players from exploring the Amber Temple too early (and because the players are strangers that he has only just met, with no evident qualifications that will help him achieve his goals), Kasimir Velikov no longer shares Patrina's dreams or his interest in the Amber Temple upon their first meeting. 
 
-Kasimir will later lead the players to the Amber Temple in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]] after the players learn of his interest in the temple at the conclusion of [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]. For now, however, Kasimir's injuries from his most recent venture up Mount Ghakis have been shown to foreshadow his involvement in that future arc.
+Kasimir will later lead the players to the Amber Temple in [[/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]] after the players learn of his interest in the temple at the conclusion of [[/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]. For now, however, Kasimir's injuries from his most recent venture up Mount Ghakis have been shown to foreshadow his involvement in that future arc.
 
 The symbols on the signet ring have been added to provide the players with the solution to the puzzle door at the entrance to Van Richten's Tower.
 
 Rahadin's relationship to Prince Erevan (relayed in Kasimir's story) has been added to accentuate his decision to choose King Barov as his family over his own people, and to create a more personal antagonistic relationship between Rahadin and the bearer of the *broken blade* in the ***Barovian Relics*** adventure hook.
 
-***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], and as a backup diplomatic option if the players chose to leave Ireena in the safety of St. Andral's Church.
+***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], and as a backup diplomatic option if the players chose to leave Ireena in the safety of St. Andral's Church.
 
-The geneology of the Strazni family has been added to explicitly reveal Ireena's connection to Izek, clarifying and accentuating the stakes of [[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]].
+The geneology of the Strazni family has been added to explicitly reveal Ireena's connection to Izek, clarifying and accentuating the stakes of [[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]].
 
-*Ethereal Entities* has been added to provide additional information to aid the players in restoring Stella's soul, and to provide Victor Vallakovich with an excuse to visit his father's library while the players are present. (See [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information about Stella's fate.)
+*Ethereal Entities* has been added to provide additional information to aid the players in restoring Stella's soul, and to provide Victor Vallakovich with an excuse to visit his father's library while the players are present. (See [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information about Stella's fate.)
 
-Victor has been given Khazan's lost spellbook to provide him with a reason to know of (and a reason to take an interest in) the tower at Lake Baratok, as well as to explain Victor's precocious skill as a mage. Victor's interest in Khazan's staff has been added to foreshadow the means by which the players can obtain the staff in the Ravenloft catacombs in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]].
+Victor has been given Khazan's lost spellbook to provide him with a reason to know of (and a reason to take an interest in) the tower at Lake Baratok, as well as to explain Victor's precocious skill as a mage. Victor's interest in Khazan's staff has been added to foreshadow the means by which the players can obtain the staff in the Ravenloft catacombs in [[/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]].
 
 ***Lake Zarovich.*** This brief detour to Szoldar and Yevgeni's dressing shack has been added to make sure that the Barovian wilderness remains strange and foreboding (because only experienced hunters know how to navigate it), to explicitly introduce the players to a pair of individuals able to point out important paths and landmarks, and to inform the players of the werewolves' heavy presence along the western half of the valley.
 
@@ -1094,9 +1094,9 @@ The lightning sheath from the original module has been intentionally removed and
 
 The paint-stained lily pads have been added to provide additional clues regarding Rictavio's connection to the tower, as has the burned sign for *Rictavio's Carnival of Wonders*. The beaded bracelet and Tarokka card have been added to confirm Arabelle's presence in the tower, and to suggest that Rictavio is not all that he seems.
 
-Van Richten's journal page introduces the character of Erasmus van Richten, who will serve a more significant role in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]].
+Van Richten's journal page introduces the character of Erasmus van Richten, who will serve a more significant role in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]].
 
-***The Road Back.*** The encounter with Zsolt and Mathilda introduces the werewolf pack more formally, foreshadowing [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]] and ensuring that the players have an appreciation for the value of obtaining silvered weapons before their encounter with the coven of Old Bonegrinder in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]].
+***The Road Back.*** The encounter with Zsolt and Mathilda introduces the werewolf pack more formally, foreshadowing [[/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]] and ensuring that the players have an appreciation for the value of obtaining silvered weapons before their encounter with the coven of Old Bonegrinder in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]].
 
 ***Return to Vallaki.*** Van Richten's **saber-toothed tiger** has been removed from his wagon because it no longer serves a purpose in the absence of his homicidal plan to kill the Vistani, because he would have had no place to store it during his time as "Alanik" in the village of Barovia before Strahd awoke, and because it is far more overt and uncontrollable a weapon than his cautious and prudent characterization would reasonably allow.
 

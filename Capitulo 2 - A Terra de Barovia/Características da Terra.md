@@ -16,7 +16,6 @@ No entanto, Strahd e suas crias vampíricas tendem a ficar dentro de casa a maio
 
 
 # Alterações Mágicas
-
 A terra de Baróvia reside em seu próprio semiplano, isolada de todos os outros planos, incluindo o plano material. Nenhuma magia — nem mesmo desejo — permite escapar do domínio de Strahd. *Projeção astral*, *teletransporte*, *viagem planar*, e magias similares conjuradas com o propósito de deixar Baróvia simplesmente não funcionam, assim como os efeitos que banem uma criatura para outro plano de existência.
 Estas restrições aplicam-se a itens mágicos e artefatos que têm propriedades que transportam ou banem criaturas para outros planos. Magias que permitem o trânsito até à fronteira etérea, tal como a magia forma etérea e a característica Forma Etérea de mortos-vivos incorpóreos, são exceções a esta regra. Uma criatura que entra na Fronteira Etérea do domínio de Strahd é puxada para dentro Baróvia após o abandono desse plano.
 

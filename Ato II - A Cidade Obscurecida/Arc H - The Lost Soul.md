@@ -140,9 +140,9 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 > To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
 
 > [!info]+ **Harvesting Phase Spiders**
-> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
+> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
 # H3. The Refugee Camp
-If it's been at least six hours since Lady Wachter's inauguration in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
+If it's been at least six hours since Lady Wachter's inauguration in [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
 
 If Lady Wachter hasn't yet relocated the refugees, when the players first enter the refugee camp, read:
 
@@ -268,7 +268,7 @@ Stella, through Victor, suggests that the players visit Wachterhaus to request L
 # H5. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
-Wachterhaus is as described in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+Wachterhaus is as described in [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
 
 Players that have previously dined with Lady Wachter are welcomed and swiftly admitted, while players that have not previously done so are asked to make an appointment for the following day. Players who insist that they are here to assist Stella, Lady Wachter’s daughter and make a successful DC 10 Charisma (Persuasion) check can bypass the need to make an appointment and are admitted immediately.
 
@@ -364,7 +364,7 @@ Lady Wachter is glad to offer the players the service of her **imp** familiar Ma
 
 > [!Warning]+ Counterspell 2024
 > 
-> This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul#Battle with the Hags|Battle with the Hags]].
+> This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul#Battle with the Hags|Battle with the Hags]].
 
 However, Victor warns the players that, according to *Ethereal Entities*, hag covens often possess the ability to dispel enchantments while within close proximity to their lair. Once Lady Wachter's binding circle is erected, he'll need to stay close to the windmill to protect it with his *counterspell.* 
 
@@ -829,7 +829,7 @@ The players can identify these remedies, as well as the symptoms of cackle fever
 
 Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Personagens Não-Jogadores#Lady Fiona Wachter|Lady Wachter]], [[Personagens Não-Jogadores#Urwin Martikov|Urwin Martikov]], [[Personagens Não-Jogadores#Danika Dorakova|Danika Dorakova]], and [[Personagens Não-Jogadores#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
 
-If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
+If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
 # H8. The Ritual
 Once the players have obtained a *heartstone*, they will need a location at which to perform the *etherealness* and restoration rituals, which must take place on the night of the full moon. 
 ![[Heartstone.png]]
@@ -1234,7 +1234,7 @@ The following morning, Victor also sends the players the following message with 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
 > Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[remover/Arc T - The Three Fanes]] for more information about lifting Van Richten's curse.
 # H9. The Tome of Strahd
-The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
+The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
 
 The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
 ## H9a. Reading the Tome
@@ -1254,7 +1254,7 @@ Once successfully opened, the contents of the *Tome* now read as follows: <sup><
 <p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
 <p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory and reclaim what is rightfully mine.</p></div>
 
-The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
+The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
 
 Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of the Amber Temple: a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the inverted triangle the amber sarcophagi, and the wavy line the vestiges sealed within.)
 
@@ -1262,7 +1262,7 @@ Players who read through these sections find numerous annotations referencing (i
 
 > [!abstract]+ **The Symbol**
 >
-> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]—is willing to tell them how to get there.
+> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]—is willing to tell them how to get there.
 # Design Notes: The Lost Soul
 The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 
 
@@ -1275,15 +1275,15 @@ As such, this arc aims to comprehensively rework these stray narrative elements 
 * The players now have a true opportunity to witness and intervene in the suffering wrought by night hags upon their victims, and to destroy their corruption once and for all.
 * Finally, the players now have a chance to learn about the dark history of Leo Dilisnya, enhancing the themes developed in the *Tome of Strahd*, foreshadowing Strahd's use of Leo's Ba'al Verzi dagger to seal the leeches corrupting the Fanes of Barovia, and providing emotional closure to Lady Wachter's character arc as it pertains to her deceased parents and brother.
 
-This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
+This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
 
-***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
+***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
 
 ***Burgomaster's Mansion.*** The *spirit mirror* has been added as a means of explaining Victor's communication with Stella, and as an eventual reward for the players upon restoring Stella's soul.
 
 The **gallows speaker**'s attack on Stella has been added to explicitly introduce Leo Dilisnya as an antagonist for this arc (even if his identity is currently unknown to the players). 
 
-Stella's fading tether has been added to provide a clear countdown for this arc's dramatic question, with her fading memories and strange visions serving to foreshadow the existence of reincarnation in Barovia (a key narrative element in Ireena's character arc, explored further in [[remover/Arc T - The Three Fanes]]).
+Stella's fading tether has been added to provide a clear countdown for this arc's dramatic question, with her fading memories and strange visions serving to foreshadow the existence of reincarnation in Barovia (a key narrative element in Ireena's character arc, explored further in [[Arc T - The Three Fanes]]).
 
 Victor's teleportation circle is now a functional one to (1) make clear to the players that magical escape from Barovia is not possible, and (2) to ensure that the players view Victor as a competent mage, rather than an incompetent one.
 
@@ -1295,7 +1295,7 @@ The night of the full moon has been intentionally placed on the night of the pla
 
 ***Matrons of Malevolence.*** The excerpted chapter on night hags in Mordenkainen's book, *Ethereal Entities: Denizens of the Unseen Plane* has been written to inform the players that (1) night hags are vulnerable to silver and resistant to magic and nonmagical weapon damage, (2) night hags are particularly cunning, yet arrogant creatures, (3) night hags are willing to make bargains and can be trusted to uphold their end of a deal, (4) night hags can instantly and easily escape into the Ethereal Plane through the use of their heartstones, (5) night hags can cast *dispel magic* once per day when in a coven, and (6) a night hag coven's contract contains their true names, and they therefore guard it carefully.
 
-***Victor's Plan.*** Victor has been given the *sending* spell in place of the *remove curse* spell in order to preserve the dramatic tension of the curse of lycanthropy (and thereby encourage afflicted players to seek out wolfsbane in Krezk in order to secure Van Richten's calming elixir, as described in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]).
+***Victor's Plan.*** Victor has been given the *sending* spell in place of the *remove curse* spell in order to preserve the dramatic tension of the curse of lycanthropy (and thereby encourage afflicted players to seek out wolfsbane in Krezk in order to secure Van Richten's calming elixir, as described in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]).
 
 This guide intentionally has Victor give the players a choice between killing and bargaining with the hags. The binding circle has been added to provide the players with the means of killing the coven (rather than allowing them to escape into the Ethereal Plane once threatened).
 
@@ -1315,9 +1315,9 @@ Lady Wachter's rejection of Frederich Wachter's request for aid serves to create
 
 Lady Wachter's reliance upon the members of her cult for the binding ritual has been added to introduce the cult to the players, and to discourage the players from attempting any such binding rituals on their own in the future (e.g., in an effort to incapacitate Strahd or his **nightmare**, Beucephalus).
 
-***The Old Svalich Road.*** The **druid** random encounter has been added to introduce the Forest Folk faction prior to their official presence in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]], and to further foreshadow Lady Wachter's relationships with Baba Lysaga and Leo Dilisnya.
+***The Old Svalich Road.*** The **druid** random encounter has been added to introduce the Forest Folk faction prior to their official presence in [[/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]], and to further foreshadow Lady Wachter's relationships with Baba Lysaga and Leo Dilisnya.
 
-***Bargain With the Hags.*** This brief alternative path is offered for parties that may wish to use a diplomatic solution instead of a hostile one, notwithstanding the hags' predation of Franz and his children. The soul leech has been added to provide the players with an additional impetus to raid Castle Ravenloft in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]] and to foster a closer interest in Rahadin, Strahd's chamberlain. 
+***Bargain With the Hags.*** This brief alternative path is offered for parties that may wish to use a diplomatic solution instead of a hostile one, notwithstanding the hags' predation of Franz and his children. The soul leech has been added to provide the players with an additional impetus to raid Castle Ravenloft in [[/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]] and to foster a closer interest in Rahadin, Strahd's chamberlain. 
 
 This guide intentionally foregoes alternative bargains that the hags might seek to make, such as directing the players to sell dream pastries or kidnap children for them. These alternative bargains fail for multiple reasons:
 
@@ -1357,7 +1357,7 @@ The hags' threat to kill the children and feed them to the players in the mornin
 
 ***The Ritual.*** The carvings on the walls of the cult headquarters have been added to foreshadow Leo Dilisnya's imprisonment.]]
 
-The ghost of Erasmus van Richten has been added to this encounter to provide additional support in the players' battle against the **gallows speaker** (a powerful foe), to connect this storyline to Dr. Rudolph van Richten's involvement in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]], and to advance the players' connection with the tragedy of the Van Richten family.
+The ghost of Erasmus van Richten has been added to this encounter to provide additional support in the players' battle against the **gallows speaker** (a powerful foe), to connect this storyline to Dr. Rudolph van Richten's involvement in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]], and to advance the players' connection with the tragedy of the Van Richten family.
 
 The attack by the **specters** has been added to partially deplete the players' resources prior to the battle with the **gallows speaker**, to indicate the risk to Stella's soul should the players fail, and to make the gallows speaker more impressive when it subsequently appears.
 

@@ -75,7 +75,7 @@ A mão de Dalvan que segura a bússola está estendida na direção de uma árvo
 > A Madame Eva lamenta o destino de Dalvan - mas como avatar do Profeta, ela está obrigada a ler o futuro quando lhe é pedido, e sabe que nenhum esforço para escapar pode desvendar um futuro que ela previu.
 
 >[!info]+ **A bússola de Dalvan**
->Como todas as bússolas em Baróvia, a bússola de Dalvan se comporta de forma estranha quando se aproxima da borda do vale de Baróvia - tal como na Colina Yester em [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] ou em direção ao pico do Monte Ghakis em [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]. Como não existe um verdadeiro "norte magnético" para além das Brumas que circundam Baróvia, a agulha de uma bússola que se aproxima da borda do vale começa a tremer e eventualmente a girar descontroladamente quanto mais se aproxima. (Este comportamento estranho termina quando a bússola é removida da borda do vale).
+>Como todas as bússolas em Baróvia, a bússola de Dalvan se comporta de forma estranha quando se aproxima da borda do vale de Baróvia - tal como na Colina Yester em [[  /Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] ou em direção ao pico do Monte Ghakis em [[  /Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]. Como não existe um verdadeiro "norte magnético" para além das Brumas que circundam Baróvia, a agulha de uma bússola que se aproxima da borda do vale começa a tremer e eventualmente a girar descontroladamente quanto mais se aproxima. (Este comportamento estranho termina quando a bússola é removida da borda do vale).
 
 Se os jogadores seguirem o trilha na direção da seta, com um teste de *Rastrear* CD 10 em breve chegarão a uma segunda árvore, que tem mais treze marcas de registo e uma seta que aponta na direção da trilha. Na extremidade do caminho e possível encontrar o cadáver de um **cavalo**, que se encontra num estado de decomposição semelhante ao de Dalvan.
 
@@ -108,7 +108,7 @@ de uivos, cinco lobos atrozes chegam e atacam.
 > [!design]+ **Design Note: Dalvan’s Fate**
 > Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Burgomaster Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow Madam Eva’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
 >
-> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley#C5. O Cavaleiro Esqueleto|Arc C - Into the Valley]]. The rider will again appear in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
+> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Arco C - Dentro do Vale#C5. O Cavaleiro Esqueleto|C5. o Cavaleiro Esqueleto]]. The rider will again appear in [[  /Ato III - A Terra Quebrada/Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[  /Ato III - A Terra Quebrada/Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
 # B4. Miradouro Baroviano
 <span class="citation"><em>Esta cena se passa no Capítulo 2: Área D.</em></span>
 
@@ -139,7 +139,7 @@ Esta cena desenrola-se em grande parte como descrito em <span class="citation">A
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-O Homem é Ismark Kolyanovich, que é em grande parte  descrito como em <span class="citation">E2. Taverna Sangue da Vinha (p. 43)</span>. O corvo é Muriel, um **corvisomem** disfarçado e membro dos [[remote-blog/Capitulo 2 - A Terra de Barovia/Lore of Barovia#Guardiões das Pena|Guardiões da Pena]]. Dois **patrulheiros** chamados Kereza e Korga vigiam os telhados próximos, enquanto 6 **pebreus** barovianos fazem reparos na barricada.
+O Homem é Ismark Kolyanovich, que é em grande parte  descrito como em <span class="citation">E2. Taverna Sangue da Vinha (p. 43)</span>. O corvo é Muriel, um **corvisomem** disfarçado e membro dos [[  /Capitulo 2 - A Terra de Barovia/Lore of Barovia#Guardiões das Pena|Guardiões da Pena]]. Dois **patrulheiros** chamados Kereza e Korga vigiam os telhados próximos, enquanto 6 **pebreus** barovianos fazem reparos na barricada.
 
 > [!profile]+ **Profile: Ismark Kolyanovich**
 >
@@ -179,7 +179,7 @@ If the players agree, Muriel follows them to the town square, staying aloft in t
 > [!design]+ **Design Note: Entering the Village**
 > This scene has been written to immediately convey the villagers’ wariness, establish Ismark as a sympathetic ally, and introduce the **wereraven** Muriel Vinshaw and the ravens of Barovia, thereby foreshadowing the Keepers of the Feather. 
 >
-> Muriel will later reappear in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley#C3. A Strix|A Strix]], fleeing a **greater strix** after eavesdropping on Strahd’s meeting with Madam Eva, and will accompany the players to the town of Vallaki throughout the remainder of Arc C. Muriel will also appear in her human form and persona in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]] to accompany the players as they journey to the Wizard of Wines winery, and will reveal her true lycanthropic nature at [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem#Ludmilla's Provocations|Yester Hill]].
+> Muriel will later reappear in [[Arco C - Dentro do Vale#C3. A Strix|C3. A Strix]], fleeing a **greater strix** after eavesdropping on Strahd’s meeting with Madam Eva, and will accompany the players to the town of Vallaki throughout the remainder of Arc C. Muriel will also appear in her human form and persona in [[  /Ato III - A Terra Quebrada/Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]] to accompany the players as they journey to the Wizard of Wines winery, and will reveal her true lycanthropic nature at [[  /Ato III - A Terra Quebrada/Arc J - The Stolen Gem#Ludmilla's Provocations|Yester Hill]].
 ## B5b. The Town Square
 As the players and Ismark pass through the village streets, read:
 
@@ -340,7 +340,7 @@ A mulher com o cabelo castanho é Alenka Konstaninova, uma **plebeia** baroviana
 > [!lore]+ **Luto de Alenka**
 > 
 > Alenka é a irmã de Anton Konstantinovich, um homem Baroviano casado a Dezdrelda Konstaninova. Há 2 noites atrás, Anton e Dezdrelda desapareceram misteriosamente no meio da noite durante o cerco; seus corpos nunca foram encontrados. As perdas deles mergulhou Alenka na paranoia e luto, e deu a lhe deu uma necessidade desesperada de acabar com o cerco de qualquer forma necessária.
-> Sem conhecimento de Alenka no entanto, Anton e Dezdrelda são prisioneiros de Volenta Popofsky, uma das esposas vampíricas de Strahd, no castelo Ravenloft. O jogador irá encontrar depois Anton como um servo mascarado em [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]].
+> Sem conhecimento de Alenka no entanto, Anton e Dezdrelda são prisioneiros de Volenta Popofsky, uma das esposas vampíricas de Strahd, no castelo Ravenloft. O jogador irá encontrar depois Anton como um servo mascarado em [[  /Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]].
 
 Levados pelo desespero pelos ataques de Strahd à aldeia, Alenka e a multidão acreditam que é necessário um sacrifício ou uma oferenda para apaziguar o vampiro e acalmar a sua raiva. A conversa que se segue desenrola dessa maneira caso os jogadores não intervirem: 
 * Alenka informa com um tom gélido a Kolyan que um sacrifício para o vampiro não é uma loucura, mas sim "bom senso". Lendas dizem que o Diabo Strahd gosta de atacar mulheres com cabelo ruivo.", ela diz. "Se o sangue dela pode ganhar o seu favor, como podemos fazer o contrário?"

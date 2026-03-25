@@ -20,7 +20,7 @@ Os jogadores começam este ato no 2º nível e devem terminá-lo no 4º nível, 
 # Linha do tempo
 * [[Arco A - Fugir da Casa da Morte]]: Os jogadores entram na Casa da Morte, derrotam o Monte de Carne e emergem nos Bosques de Svalich em 27 de outubro de 735 a.C. (Calendário Baroviano).
 * [[Arco B - Bem Vindo a Barovia]]: Os jogadores chegam à aldeia de Baróvia e conhecem Ismark e Ireena a 28 de outubro.
-* [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley]]: Os jogadores recebem a leitura de Tarokka em Neyavr 1, chegam a Vallaki em Neyavr 2 e encontram o Barão Vallakovich na manhã de Neyavr 3.
+* [[Arco C - Dentro do Vale]]: Os jogadores recebem a leitura de Tarokka em Neyavr 1, chegam a Vallaki em Neyavr 2 e encontram o Barão Vallakovich na manhã de Neyavr 3.
 
 > [!info]+ **O Calendário Baroviano**
 > O ano baroviano atual é 735 a.C. (Calendário Baroviano). O calendário baroviano tem doze meses de 28 dias, que são designados da seguinte forma: <sup>1</sup>

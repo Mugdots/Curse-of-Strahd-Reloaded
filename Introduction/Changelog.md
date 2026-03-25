@@ -1,113 +1,113 @@
 # Patch 2.1.0.13 (February 15, 2026)
 * Amended various typos, broken links, and errors in formatting
-* Clarified that Eliza should have the statblock of a spy in [[Arc C - Into the Valley]]
-* Added how Ireena votes in [[Arc C - Into the Valley#C4d. The Dancing Fire|The Dancing Fire]]
-* Renamed The Black Carriage to The Crossroads of Ravenloft, now that there is no black carriage in the scene in [[Arc C - Into the Valley]]
-* Added Van Richten's *charm bracelet* and *lucid lens* as items that show up under a *detect magic spell* in [[Arc C - Into the Valley]]
-* Included all of Van Richten's magic items within his statblock in [[Arc E - The Missing Vistana]]
+* Clarified that Eliza should have the statblock of a spy in [[Arco C - Dentro do Vale]]
+* Added how Ireena votes in [[Arco C - Dentro do Vale#C4d. The Dancing Fire|The Dancing Fire]]
+* Renamed The Black Carriage to The Crossroads of Ravenloft, now that there is no black carriage in the scene in [[Arco C - Dentro do Vale]]
+* Added Van Richten's *charm bracelet* and *lucid lens* as items that show up under a *detect magic spell* in [[Arco C - Dentro do Vale]]
+* Included all of Van Richten's magic items within his statblock in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
 * Added a small buff to the fermentation vat explosion in [[Arc J - The Stolen Gem]]
 * Added a profile with roleplaying information for Sir Godfrey Gwilym in [[Arc M - The Dragon's Manor]]
 * Added a section on Bianca's fate after Kiril is vanquished in [[Arc Q - A Shining Beacon]]
 * Clarified that players will not be able to give the location of Soldav to Neferon in [[Arc S - A Sword of Sunlight]], due to Elder Burebis' *modify memory* spell.
 # Patch 2.1.0.12 (January 12, 2026)
 * Amended various typos, broken links, and errors in formatting
-* Added art for Gustav's grick form in [[Arc A - Escape From Death House]]
+* Added art for Gustav's grick form in [[Arco A - Fugir da Casa da Morte]]
 * Added the **Fast Grappler** ability to Vampire Spawn, so they don't get trapped by difficult terrain from things such as *Spirit Guardians*.
 * Clarified wording on recovering hit points after being bitten by a vampire.
 * Clarified inconsistencies in the ages between Kasimir and Patrina.
-* Added an explanation of the burgomaster's duties, courtesy of Fiona Wachter in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]. 
-* Added artwork for Cyrus Bellview in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Ensured that checks and saves are accurately used in the Collapsing Tower section of [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
-* Added artwork of Vilnius in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
-* Added artwork of Patrina in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
-* Added artwork of an Amber Construct in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
-* Clarified the wording of Patrina's *counterspell* in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
+* Added an explanation of the burgomaster's duties, courtesy of Fiona Wachter in [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]. 
+* Added artwork for Cyrus Bellview in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Ensured that checks and saves are accurately used in the Collapsing Tower section of [[Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
+* Added artwork of Vilnius in [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
+* Added artwork of Patrina in [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
+* Added artwork of an Amber Construct in [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
+* Clarified the wording of Patrina's *counterspell* in [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
 * Including an infobox to notify DMs that Strahd assumes his Monster persona upon learning of the *Sunsword* being ignited.
 * Clarified the location of the bats in [[remover/Arc T - The Three Fanes]]
 # Hotfix 2.1.0.11 (December 8, 2025)
 * Updated combat encounters to be in line with new balancing template across all arcs
 # Patch 2.1.0.10 (November 22, 2025)
-* Merged combat encounter balancing template and [[Arc A - Escape From Death House]] modifications from community contributor
+* Merged combat encounter balancing template and [[Arco A - Fugir da Casa da Morte]] modifications from community contributor
 # Patch 2.1.0.9 (November 17, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Clarified that *Waltz for Klara* only causes the bookshelf to swing open, not open the secret door behind
 * Added art for Bildrath and Parriwimple in [[Arc B - Welcome to Barovia]]
 * Clarified the descriptions of the various shrines to the Ladies Three as stone stele, to give a more accurate understanding of how they look
 * Clarified that it is the returning of the bones of St Andral to the church that prompts the XP reward, not the reconsecration of the church
-* Added Escher's journey from Ravenloft and back via Berez, when meeting Yan in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]] 
+* Added Escher's journey from Ravenloft and back via Berez, when meeting Yan in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]] 
 * Removed references to black onyx stones at the megaliths, as this is part of deprecated content
-* Clarified in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] that Ireena is now a CR2 ally.
+* Clarified in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] that Ireena is now a CR2 ally.
 * Added a reminder that even in Varushka's nightmare, Vladimir's *oathbind* ability will still have an effect on players if they are under its power.
 * Changed Khazan's staff rarity from rare to legendary, to be in line with the power of *robe of the archmagi*.
 * Increased Ithuriel's *healing touch* ability to five a day, to not slow the average party down if they are all suffering from lycanthropy by this point.
-* Clarified that Kasimir used rope and not a *fly* spell to pass the gatehouse in [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
-* Added art for Chief Diegia, Oroles, and Elder Burebis in [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
-* Added art for The Roc of Mount Ghakis, Diona, Heinrich Stolt, Neferon, Heinrich's Map, Flameskulls, Khazan's Notes in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
+* Clarified that Kasimir used rope and not a *fly* spell to pass the gatehouse in [[Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
+* Added art for Chief Diegia, Oroles, and Elder Burebis in [[Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
+* Added art for The Roc of Mount Ghakis, Diona, Heinrich Stolt, Neferon, Heinrich's Map, Flameskulls, Khazan's Notes in [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
 * Added art for The Roc of Mount Ghakis in [[remover/Arc T - The Three Fanes]]
-* Clarified that the Dreamer’s heart has the statistics of an **aboleth** from 2024, not 2014, in [[remote-blog/Ato IV - Segredo dos Anciões/Arc U - Dreams of Dawn]]
-* Added a citation for the original concept of the Fanes, in [[remote-blog/Chapter 2 - The Land of Barovia 1/History of Barovia]]
+* Clarified that the Dreamer’s heart has the statistics of an **aboleth** from 2024, not 2014, in [[Ato IV - Segredo dos Anciões/Arc U - Dreams of Dawn]]
+* Added a citation for the original concept of the Fanes, in [[Chapter 2 - The Land of Barovia 1/History of Barovia]]
 # Hotfix 2.1.0.8 (November 10, 2025)
-* Fixed rendering error with Volenta's statblock in [[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] and [[Personagens Não-Jogadores]]
+* Fixed rendering error with Volenta's statblock in [[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] and [[Personagens Não-Jogadores]]
 # Hotfix 2.1.0.7 (November 8, 2025)
-* Added link to Arc A Foundry module by Eidolon Publishing in [[Arc A - Escape From Death House]]
+* Added link to Arc A Foundry module by Eidolon Publishing in [[Arco A - Fugir da Casa da Morte]]
 # Hotfix 2.1.0.6 (October 13, 2025)
 * Resolved formatting issues in [[Bestiary]]
 # Patch 2.1.0.5 (September 22, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Added ***Close Quarters Fighter*** to all bosses, removing their disadvantage from ranged attacks whilst in melee
 * Added *abjure spell* to Victor's spellbook, an alternative to a 5th-level *counterspell* for those using 2024 rules.
-* Added a verbal component to Ezmerelda's *runeguard stone* in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
-* Added Henrik to the castle cells in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]], if he was imprisoned in Arc D
-* Added a zombie operating the rack in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Amended or removed various skill checks concerning the Abbot in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]] to allow for justifiable social solutions to not get stuck behind a poor roll
-* Added reminders in arcs R and S for DMs to add the effects of *Beacon of Protection* to allies as well as PCs once the beacon is lit in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
-* Clarified Godfrey's resonance level in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
+* Added a verbal component to Ezmerelda's *runeguard stone* in [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
+* Added Henrik to the castle cells in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]], if he was imprisoned in Arc D
+* Added a zombie operating the rack in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Amended or removed various skill checks concerning the Abbot in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]] to allow for justifiable social solutions to not get stuck behind a poor roll
+* Added reminders in arcs R and S for DMs to add the effects of *Beacon of Protection* to allies as well as PCs once the beacon is lit in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Clarified Godfrey's resonance level in [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
 * Removed the outdated text regarding a lit *Sunsword* in the [[remover/Arc T - The Three Fanes#T2c. The Tyrant’s Final Trial|Tyrant's Final Trial]]
 * Added further information on mechanics and roleplay advice for the carrionettes in [[remover/Arc T - The Three Fanes]]
 * Ensured parity across descriptions of the *Spear of the Huntress* in [[remover/Arc T - The Three Fanes]]
-* Added balancing information for combat in [[remote-blog/Ato IV - Segredo dos Anciões/Arc U - Dreams of Dawn]]
+* Added balancing information for combat in [[Ato IV - Segredo dos Anciões/Arc U - Dreams of Dawn]]
 * Added a [[Bestiary]] for monster statblocks from throughout the guide
 * Added statblocks for various NPCs into [[Personagens Não-Jogadores]] 
 # Hotfix 2.1.0.4 (July 6, 2025)
 * Amended various typos, broken links, and errors in formatting
-* Added an image of Argynvost's Ghost to [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
-* Added an updated, labelled image of Bodak's Lair to [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
+* Added an image of Argynvost's Ghost to [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Added an updated, labelled image of Bodak's Lair to [[Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
 # Patch 2.1.0.3 (June 18, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Clarified fog and vision limitations in the siege in [[Arc B - Welcome to Barovia]]
 * Changed Parriwimple's statblock to that of a berserker with a spear in [[Arc B - Welcome to Barovia]]
 * Added a light crossbow to Ireena's equipment in [[Arc B - Welcome to Barovia]]
-* Ensured parity between stats and balancing of Izek in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]] and [[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]
-* Removed the refugees' coldness to Ireena and Ismark in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], on account of their father being alive at time of the refugees leaving
-* Ensured parity of the Order of the Silver Dragon's oath across [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Added a short scene with disinterested wolves in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]] to show that Strahd is honoring his word
-* Updated reconsecration information for the *Spear of the Huntress* in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added clarifying information on where in the mausoleum the black flames erupt in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
-* Added balancing encounters in [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
-* Added balancing encounters in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
-* Added roleplaying guidance for those possessed by Dorina in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
+* Ensured parity between stats and balancing of Izek in [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]] and [[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]
+* Removed the refugees' coldness to Ireena and Ismark in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], on account of their father being alive at time of the refugees leaving
+* Ensured parity of the Order of the Silver Dragon's oath across [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Added a short scene with disinterested wolves in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]] to show that Strahd is honoring his word
+* Updated reconsecration information for the *Spear of the Huntress* in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added clarifying information on where in the mausoleum the black flames erupt in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Added balancing encounters in [[Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
+* Added balancing encounters in [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
+* Added roleplaying guidance for those possessed by Dorina in [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
 * Added balancing encounters in [[remover/Arc T - The Three Fanes]]
 * Added stat block for Animated Minor Object in [[remover/Arc T - The Three Fanes]]
 * Updated amber shard locations in [[Amber Shards]]
 
 # Hotfix 2.1.0.2 (June 12, 2025)
-* Changed Strahd's dying words in [[remote-blog/Ato IV - Segredo dos Anciões/Arc U - Dreams of Dawn]]
+* Changed Strahd's dying words in [[Ato IV - Segredo dos Anciões/Arc U - Dreams of Dawn]]
 # Hotfix 2.1.0.1 (May 30, 2025)
-* Fixed ravine battlemap not rendering in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley]]
+* Fixed ravine battlemap not rendering in [[Ato I - Nas Brumas/Arc C - Into the Valley]]
 # Update 2.1 (May 23, 2025)
-* Added [[remote-blog/Ato IV - Segredo dos Anciões/Arc U - Dreams of Dawn]]
+* Added [[Ato IV - Segredo dos Anciões/Arc U - Dreams of Dawn]]
 * Removed Strahd's Castle Ravenloft lair actions
 # Hotfix 2.0.12.4 (May 19, 2025)
 * Amended various typos, broken links, and errors in formatting
-* Clarified that the coven's concentration spells stop when they change to phase 2 in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
-* Added fire vulnerability to the **lesser strix** in line with the **greater strix** in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley]]
+* Clarified that the coven's concentration spells stop when they change to phase 2 in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+* Added fire vulnerability to the **lesser strix** in line with the **greater strix** in [[Ato I - Nas Brumas/Arc C - Into the Valley]]
 # Hotfix 2.0.12.3 (May 16, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Updated chapter name "Dreams of Dawn" to [[remover/Arc T - The Three Fanes#T5. A Light in the Dark|T5. A Light in the Dark]]
 * Updated the *Indomitable* feature across all relevant statblocks
 # Patch 2.0.12.2 (May 12, 2025)
 * Revised the Tyrant's final trail in [[remover/Arc T - The Three Fanes]]
-* Added a sequence for igniting the *Sunsword* in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
+* Added a sequence for igniting the *Sunsword* in [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
 # Patch 2.0.12.1 (May 10, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Clarified that the siege of Barovia village has been for six days in Arc B
@@ -131,7 +131,7 @@
 # Update 2.0.12 (May 8, 2025)
 * Added [[remover/Arc T - The Three Fanes]]
 # Hotfix 2.0.11.2 (March 23, 2025)
-* Tweaked the history of the Amber Temple and the answer to Meda's riddle in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]] to clarify that the amber vestiges are not the Dark Powers.
+* Tweaked the history of the Amber Temple and the answer to Meda's riddle in [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]] to clarify that the amber vestiges are not the Dark Powers.
 # Hotfix 2.0.11.1 (March 22, 2025)
 * Added *Indomitable* to Vladimir's statblock in Arc M
 * Clarified damage resistance in Ludmilla's *Shroud of Shadows* ability in Arc J
@@ -142,7 +142,7 @@
 * Added barricade map Arc B
 * Added ice cave maps to Arc R 
 # Update 2.0.11 (March 22, 2025)
-* Added [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
+* Added [[Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]]
 # Patch 2.0.10.5 (March 22, 2025)
 * Amended various typos and errors in formatting
 * Added images for Anastrasya, Stella Wachter, and the Bodak Lair
@@ -150,9 +150,9 @@
 * Added roleplay information for Rahadin in [[Personagens Não-Jogadores]]
 * Clarified damage resistance in Ludmilla's *Shroud of Shadows* ability
 * Revised references to Strahd's wedding being "over 400 years ago" when it was in fact just under 400 years
-* Added column heading to Icicle Cascade table in [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
-* Tidied Izek's schedule in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
-* Clarified the timeline in [[remote-blog/Ato III - A Terra Quebrada/Act III Summary]]
+* Added column heading to Icicle Cascade table in [[Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
+* Tidied Izek's schedule in [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
+* Clarified the timeline in [[Ato III - A Terra Quebrada/Act III Summary]]
 * Updated the *Indomitable* feature across various statblocks 
 * Added *Hindered* into glossary
 # Patch 2.0.10.4 (February 13, 2025)
@@ -165,37 +165,37 @@
 * Amended various typos and errors in formatting
 * Amended inconsistencies across various statblocks
 * Amended Zuleika's surname to Toranescu
-* Clarified how much attention the players garner if they try and steal the skull in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Clarified how much attention the players garner if they try and steal the skull in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
 * Added foreshadowing of Baba Lysaga by Zuleika, Ludmilla, and Diavola
-* Amended inconsistencies of wolf and werewolf numbers in [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
-* Clarified that if all players die in Varushka's nightmare in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]] that they die in reality
-* Removed attunement requirement for the spirit mirror in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
-* Added details of Godfrey being ordered by Vladimir to not speak to players upon their return in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
-* Amended Muriel's stat block and added a reminder on NPC allies falling to death saves in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley]]
-* Removed Resurrection Madness mechanics from the guide in [[remote-blog/Capitulo 2 - A Terra de Barovia/Lore of Barovia]]
-* Amended all vampire bite attacks and HP recovery mechanics to be in line with Strahd's in [[remote-blog/Capitulo 2 - A Terra de Barovia/Strahd von Zarovich]]
-* Added necrotic resistance to the Abbot's stat blocks in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Amended inconsistencies of wolf and werewolf numbers in [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
+* Clarified that if all players die in Varushka's nightmare in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]] that they die in reality
+* Removed attunement requirement for the spirit mirror in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+* Added details of Godfrey being ordered by Vladimir to not speak to players upon their return in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Amended Muriel's stat block and added a reminder on NPC allies falling to death saves in [[Ato I - Nas Brumas/Arc C - Into the Valley]]
+* Removed Resurrection Madness mechanics from the guide in [[Capitulo 2 - A Terra de Barovia/Lore of Barovia]]
+* Amended all vampire bite attacks and HP recovery mechanics to be in line with Strahd's in [[Capitulo 2 - A Terra de Barovia/Strahd von Zarovich]]
+* Added necrotic resistance to the Abbot's stat blocks in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
 # Hotfix 2.0.10.2 (December 20, 2024)
-* Amended the bodaks' combat strategy in [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
+* Amended the bodaks' combat strategy in [[Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
 # Hotfix 2.0.10.1 (December 19, 2024)
-* Removed Strahd's *Father of the Night* ability from [[remote-blog/Capitulo 2 - A Terra de Barovia/Strahd von Zarovich]] 
+* Removed Strahd's *Father of the Night* ability from [[Capitulo 2 - A Terra de Barovia/Strahd von Zarovich]] 
 # Version 2.0.10 (December 16, 2024)
-* Added [[remote-blog/Ato IV - Segredo dos Anciões/Act IV Summary]]
-* Added [[remote-blog/Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
+* Added [[Ato IV - Segredo dos Anciões/Act IV Summary]]
+* Added [[Ato IV - Segredo dos Anciões/Arc R - Trials of the Mountain]]
 * Updated the Table of Contents in [[A DM's Guide to Curse of Strahd|Introduction]]
 # Patch 2.0.9.7 (November 19, 2024)
 * Fixed assorted typos and inconsistencies
-* Removed outdated references in Madam Eva's tarokka reading in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley]]
-* Added tactics to vine blights at the spiked pit trap in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
-* Added further description of the Holy Symbol of Ravenkind to bring attention to it in [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
-* Added a shaft of moonlight to illuminate the Holy Symbol of Ravenkind in [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
-* Added reasoning for Vladimir to be dismissive of players mentioning Argynvost's spirit in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Added information on Lief Lipsiege to [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Added Great Taar Haak's amber shard to the Ravenloft treasury in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Amended which round the wraith and hell hounds manifest in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Clarified what Kiril can do with his leap ability in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
-* Clarified how many revenants appear at different times in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
-* Brought Vladimir's flame trap in line with action economy in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Removed outdated references in Madam Eva's tarokka reading in [[Ato I - Nas Brumas/Arc C - Into the Valley]]
+* Added tactics to vine blights at the spiked pit trap in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
+* Added further description of the Holy Symbol of Ravenkind to bring attention to it in [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
+* Added a shaft of moonlight to illuminate the Holy Symbol of Ravenkind in [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
+* Added reasoning for Vladimir to be dismissive of players mentioning Argynvost's spirit in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Added information on Lief Lipsiege to [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Added Great Taar Haak's amber shard to the Ravenloft treasury in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Amended which round the wraith and hell hounds manifest in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Clarified what Kiril can do with his leap ability in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Clarified how many revenants appear at different times in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Brought Vladimir's flame trap in line with action economy in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
 # Hotfix 2.0.9.6 (October 22, 2024)
 * Fixed assorted typos and inconsistencies
 # Patch 2.0.9.5 (October 21, 2024)
@@ -211,154 +211,154 @@
 * Revised the flesh mound's features to include a variance of the amorphous feature
 * Clarified that the pool in the ritual chamber is difficult terrain for medium or smaller creatures.
 * Revised wording on Ludmilla's grease and web spells
-* Added new rebalancing details for the pit trap in [[Arc A - Escape From Death House]] 
-* Added new rebalancing details for the escape in [[Arc A - Escape From Death House]] 
+* Added new rebalancing details for the pit trap in [[Arco A - Fugir da Casa da Morte]] 
+* Added new rebalancing details for the escape in [[Arco A - Fugir da Casa da Morte]] 
 * Added new rebalancing details for the town square in [[Arc B - Welcome to Barovia]]
 * Added new rebalancing details for the siege in [[Arc B - Welcome to Barovia]]
-* Added new rebalancing details for the wolves in [[remote-blog/Ato I - Nas Brumas/Arc C - Into the Valley]]
-* Added new rebalancing details for the mass grave in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Added new rebalancing details for the spiders' ballroom in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Added new rebalancing details for the trapped hallway in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Added new rebalancing details for Vladimir in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Added new rebalancing details for the entryway in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for the ravenous spawn in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for the guardian vermin in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for the guest landing in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for the witches in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for the tomb of the darklord in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for the north tower rooftop in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for the thirty-fifth crypt in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for Ludmilla in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for Anastrasya in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for Volenta in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added new rebalancing details for Ithuriel in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
-* Added new rebalancing details for the return to the foyer in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
-* Added new rebalancing details for Kiril in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
-* Added new rebalancing details for Vladimir in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Added new rebalancing details for the wolves in [[Ato I - Nas Brumas/Arc C - Into the Valley]]
+* Added new rebalancing details for the mass grave in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the spiders' ballroom in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the trapped hallway in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Added new rebalancing details for Vladimir in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the entryway in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the ravenous spawn in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the guardian vermin in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the guest landing in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the witches in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the tomb of the darklord in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the north tower rooftop in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the thirty-fifth crypt in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Ludmilla in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Anastrasya in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Volenta in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Ithuriel in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Added new rebalancing details for the return to the foyer in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Added new rebalancing details for Kiril in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Added new rebalancing details for Vladimir in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
 
 # Hotfix 2.0.9.4 (October 1, 2024)
-* Revised the introductory text regarding player expectations in [[remote-blog/Capitulo 1 - Começo da Campanha/Session Zero]]
+* Revised the introductory text regarding player expectations in [[Capitulo 1 - Começo da Campanha/Session Zero]]
 # Hotfix 2.0.9.3 (September 3, 2024)
-* Removed Kiril's ***weak grip*** feature and added a warning callout box regarding movement speed while grappled in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Removed Kiril's ***weak grip*** feature and added a warning callout box regarding movement speed while grappled in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
 # Hotfix 2.0.9.2 (September 2, 2024)
-* Nerfed Kiril's hit points and ***corrupted miasma*** bonus action in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Nerfed Kiril's hit points and ***corrupted miasma*** bonus action in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
 # Hotfix 2.0.9.1 (September 1, 2024)
-* Removed Belviews from combat with the Abbot and removed unconsciousness from Abbot's ***frightful presence*** in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Removed Belviews from combat with the Abbot and removed unconsciousness from Abbot's ***frightful presence*** in [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
 # Version 2.0.9 (August 29, 2024)
-* Added [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
+* Added [[Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]]
 *  Fixed assorted typos & inconsistencies
-* Revised [[remote-blog/Chapter 2 - The Land of Barovia 1/History of Barovia]] to reflect that Strahd has not yet bitten Ireena and the siege of Barovia is ongoing at the beginning of [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]].
-* Added a milestone XP chart in [[remote-blog/Capitulo 3 - Começando o Jogo/Adventure Summary]]
-* Added an additional warning regarding homebrewing or modifications/additions in [[Arc A - Escape From Death House]]
-* Addressed the possibility of players visiting the church early in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
-* Modified the *fire bottles* to use distilled wine in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
-* Clarified Muriel's behavior during a *speak with animals* spell in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
-* Clarified that infected lycanthropes must kill an innocent to embrace the curse in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
-* Changed Tatyana from Strahd's "true love" to his "true desire" in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
-* Fixed Kerez and Korga not recognizing the players in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
-* Moved the Tarokka reading to the Ivlis River Crossroad and removed Madam Eva's teleportation in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
-* Clarified that the strix doesn't target Muriel in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
-* Added a response for Strahd if the players ask to be released from Barovia in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
-* Modified Madam Eva's reading regarding the *Tome of Strahd* in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] to prevent players from mistaking the skeletal rider for the "wandering soul" in her foretelling
-* Added an additional **wolf** encounter in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] and revised the **wolf** statblock
-* Replaced some wolves in the Werewolf's Hunt encounter in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] with an additional werewolf
-* Clarified in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] that the werewolf pack did not hunt humans before Kiril's rise to power
-* Clarified that Ezmerelda's map of Barovia doesn't mark locations other than settlements in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
-* Added an NPC profile for Van Richten in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
-* Explained how Van Richten responds if the players attempt to recruit him in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
-* Expanded Ireena's response if the players refuse to bring her to fight Izek in [[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]
-* Added rules regarding the destruction of the hag coven's contract in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
-* Made it more difficult to accidentally trigger combat with the hag coven in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
-* Added a fail-forward plotline for players defeated by Baba Lysaga in [[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]
-* Clarified that *spirit guardians* damages the roots in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
-* Clarified how Ezmerelda responds upon learning that the players stole from her wagon in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
-* Reworked [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]] to remove Kiril's return and add additional evil werewolves loyal to Kiril
-* Made Vladimir Horngaard's flame attacks deal fire damage instead of cold damage in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Added additional locations to encounter Rahadin in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Revised [[Chapter 2 - The Land of Barovia 1/History of Barovia]] to reflect that Strahd has not yet bitten Ireena and the siege of Barovia is ongoing at the beginning of [[Arco B - Bem Vindo a Barovia]].
+* Added a milestone XP chart in [[Capitulo 3 - Começando o Jogo/Adventure Summary]]
+* Added an additional warning regarding homebrewing or modifications/additions in [[Arco A - Fugir da Casa da Morte]]
+* Addressed the possibility of players visiting the church early in [[Arco B - Bem Vindo a Barovia]]
+* Modified the *fire bottles* to use distilled wine in [[Arco B - Bem Vindo a Barovia]]
+* Clarified Muriel's behavior during a *speak with animals* spell in [[Arco C - Dentro do Vale]]
+* Clarified that infected lycanthropes must kill an innocent to embrace the curse in [[Arco C - Dentro do Vale]]
+* Changed Tatyana from Strahd's "true love" to his "true desire" in [[Arco C - Dentro do Vale]]
+* Fixed Kerez and Korga not recognizing the players in [[Arco C - Dentro do Vale]]
+* Moved the Tarokka reading to the Ivlis River Crossroad and removed Madam Eva's teleportation in [[Arco C - Dentro do Vale]]
+* Clarified that the strix doesn't target Muriel in [[Arco C - Dentro do Vale]]
+* Added a response for Strahd if the players ask to be released from Barovia in [[Arco C - Dentro do Vale]]
+* Modified Madam Eva's reading regarding the *Tome of Strahd* in [[Arco C - Dentro do Vale]] to prevent players from mistaking the skeletal rider for the "wandering soul" in her foretelling
+* Added an additional **wolf** encounter in [[Arco C - Dentro do Vale]] and revised the **wolf** statblock
+* Replaced some wolves in the Werewolf's Hunt encounter in [[Arco C - Dentro do Vale]] with an additional werewolf
+* Clarified in [[Arco C - Dentro do Vale]] that the werewolf pack did not hunt humans before Kiril's rise to power
+* Clarified that Ezmerelda's map of Barovia doesn't mark locations other than settlements in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
+* Added an NPC profile for Van Richten in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
+* Explained how Van Richten responds if the players attempt to recruit him in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
+* Expanded Ireena's response if the players refuse to bring her to fight Izek in [[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]
+* Added rules regarding the destruction of the hag coven's contract in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+* Made it more difficult to accidentally trigger combat with the hag coven in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+* Added a fail-forward plotline for players defeated by Baba Lysaga in [[Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]
+* Clarified that *spirit guardians* damages the roots in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
+* Clarified how Ezmerelda responds upon learning that the players stole from her wagon in [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
+* Reworked [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]] to remove Kiril's return and add additional evil werewolves loyal to Kiril
+* Made Vladimir Horngaard's flame attacks deal fire damage instead of cold damage in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Added additional locations to encounter Rahadin in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
 * Clarified what *detect magic* and *identify* reveal about amber shards in [[Amber Shards]]
 * Allowed players to continue using stage-two corruption spells in stage three of an amber shard's corruption, subject to exhaustion, in [[Amber Shards]]
 # Version 2.0.8.10 (August 15, 2024)
-* Clarified that Rahadin retreats upon activating the *amulet of Ravenloft* in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Clarified that Rahadin retreats upon activating the *amulet of Ravenloft* in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
 # Version 2.0.8.9 (August 12, 2024)
-* Reduced Rahadin's hit points in each form to 180 and swapped his phase one ***parry*** and ***riposte*** reactions with his phase two ***vengeful strike*** and ***disarm*** reactions in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Reduced Rahadin's hit points in each form to 180 and swapped his phase one ***parry*** and ***riposte*** reactions with his phase two ***vengeful strike*** and ***disarm*** reactions in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
 # Version 2.0.8.8 (August 9, 2024)
-* Removed Rahadin's phase-one _misty step_ bonus action, decreased his _misty step_ reaction to once per round, and expanded his phase-two _amulet of Ravenloft_ reaction to trigger upon reaching 50 hit points or fewer in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Changed Vladimir's oathbind to only apply to Strahd in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Removed Rahadin's phase-one _misty step_ bonus action, decreased his _misty step_ reaction to once per round, and expanded his phase-two _amulet of Ravenloft_ reaction to trigger upon reaching 50 hit points or fewer in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Changed Vladimir's oathbind to only apply to Strahd in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
 # Version 2.0.8.7 (August 2, 2024)
-* Removed reference to outdated version of Arc N in [[remote-blog/Ato III - A Terra Quebrada/Act III Summary]]
+* Removed reference to outdated version of Arc N in [[Ato III - A Terra Quebrada/Act III Summary]]
 # Version 2.0.8.6 (July 28, 2024)
-* Increased dungeon hall trapdoor recharge time to 24 hours in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Increased dungeon hall trapdoor recharge time to 24 hours in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
 # Version 2.0.8.5 (July 25, 2024)
-* Clarified how often and how many times the clock chimes in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Replaced a reference to Ludmilla's ***vengeful ward*** with her ***shroud of shadows*** in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
+* Clarified how often and how many times the clock chimes in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Replaced a reference to Ludmilla's ***vengeful ward*** with her ***shroud of shadows*** in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
 # Version 2.0.8.4 (July 21, 2024)
-* Revised Ludmilla's second-phase claws, mist shards, dissipate, asphyxiate, poison mist, and ambush features in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Changed the title of Arc M to [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Revised Ludmilla's second-phase claws, mist shards, dissipate, asphyxiate, poison mist, and ambush features in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Changed the title of Arc M to [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
 # Version 2.0.8.3 (July 20, 2024)
-* Removed Ludmilla's phase-one fly speed, changed her ***vengeful ward*** feature to a ***shroud of shadows*** bonus action, and modified the text of her ***shroud of shadows*** and ***mage's reprisal*** abilities in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] and [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Removed Ludmilla's phase-one fly speed, changed her ***vengeful ward*** feature to a ***shroud of shadows*** bonus action, and modified the text of her ***shroud of shadows*** and ***mage's reprisal*** abilities in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] and [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
 # Version 2.0.8.2 (July 20, 2024)
-* Added milestones and XP to [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added milestones and XP to [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
 # Version 2.0.8.1 (July 19, 2024)
-* Fixed broken links and typos in [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Added a copy of the deprecated version of [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
+* Fixed broken links and typos in [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added a copy of the deprecated version of [[Arco B - Bem Vindo a Barovia]]
 # Version 2.0.8 (July 19, 2024)
-* Added [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
-* Reworked [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] such that the players now arrive immediately before the night day of Strahd's siege and the first night that Strahd visits Ireena.
+* Added [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Reworked [[Arco B - Bem Vindo a Barovia]] such that the players now arrive immediately before the night day of Strahd's siege and the first night that Strahd visits Ireena.
 * Added additional artwork by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/posts).
-* Added an additional line regarding creature alignments to the campaign contract in [[remote-blog/Capitulo 1 - Começo da Campanha/Session Zero]]
-* Updated Strahd's goals in [[remote-blog/Capitulo 2 - A Terra de Barovia/Strahd von Zarovich]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
-* Revised the flesh mound's second phase in [[Arc A - Escape From Death House]] to allow for an automatic critical hit against the mound when its ***innocent heart*** is damaged.
-* Replaced Madam Eva's invitation in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] with a request by Ismark Kolyanovich for the players to seek Eva's guidance on how to defeat Strahd
-* Moved the March of the Dead from [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] to [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
-* Added an extended sequence involving Strahd's spy and the March of the Dead before the Tarokka reading in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
-* Added information regarding the players' ability to ambush the vampire spawn before retrieving the bones in [[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]
-* Gave Volenta a smoke bomb escape reaction in [[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]
-* Added information regarding their potential banishment from Vallaki if they alienate Baron Vallakovich in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
-* Added information regarding Lady Wachter's knowledge and character arc in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
-* Moved Erasmus's plea to arrive just before dawn in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
-* Added information regarding the players' failure to return a heartstone in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
-* Removed references to the Fane leeches and the dagger of Leo Dilisnya in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], [[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]] and [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]].
-* Added information regarding other areas of Berez in [[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]
-* Redistributed milestone XP in [[remote-blog/Ato III - A Terra Quebrada/Act III Summary]]
-* Added additional reason for the players to return to Kavan's cairn in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
-* Added NPC profiles for Otto and Zygfrek Belview in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
-* Added additional details regarding potential attempts to escape the *silverthorn collars* in [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
-* Added additional information regarding Zuleika's ability to lift the Oath of the New Moon in [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
-* Added additional information regarding a potential confrontation with Bianca at Lake Baratok in [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
-* Noted that Argynvost's bones, other than his skull, were burned in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Changed Anton to be Dezdrelda's husband, rather than her brother, in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Fixed an unsolvable sliding puzzle layout in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Added NPC profiles for Escher and Sasha Ivliskova in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Added new information regarding Strahd's involvement with Sasha and Gertruda's request for aid in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Added new information should players attempt to explore the castle after entering the guest suite in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Reworked the fourth floor of Varushka's nightmare in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Reduced Varushka's Challenge Rating to 8 in both phases in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Added an additional line regarding creature alignments to the campaign contract in [[Capitulo 1 - Começo da Campanha/Session Zero]]
+* Updated Strahd's goals in [[Capitulo 2 - A Terra de Barovia/Strahd von Zarovich]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
+* Revised the flesh mound's second phase in [[Arco A - Fugir da Casa da Morte]] to allow for an automatic critical hit against the mound when its ***innocent heart*** is damaged.
+* Replaced Madam Eva's invitation in [[Arco B - Bem Vindo a Barovia]] with a request by Ismark Kolyanovich for the players to seek Eva's guidance on how to defeat Strahd
+* Moved the March of the Dead from [[Arco B - Bem Vindo a Barovia]] to [[Arco C - Dentro do Vale]]
+* Added an extended sequence involving Strahd's spy and the March of the Dead before the Tarokka reading in [[Arco C - Dentro do Vale]]
+* Added information regarding the players' ability to ambush the vampire spawn before retrieving the bones in [[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]
+* Gave Volenta a smoke bomb escape reaction in [[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]
+* Added information regarding their potential banishment from Vallaki if they alienate Baron Vallakovich in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
+* Added information regarding Lady Wachter's knowledge and character arc in [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
+* Moved Erasmus's plea to arrive just before dawn in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+* Added information regarding the players' failure to return a heartstone in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+* Removed references to the Fane leeches and the dagger of Leo Dilisnya in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], [[Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]] and [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]].
+* Added information regarding other areas of Berez in [[Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]
+* Redistributed milestone XP in [[Ato III - A Terra Quebrada/Act III Summary]]
+* Added additional reason for the players to return to Kavan's cairn in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
+* Added NPC profiles for Otto and Zygfrek Belview in [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
+* Added additional details regarding potential attempts to escape the *silverthorn collars* in [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
+* Added additional information regarding Zuleika's ability to lift the Oath of the New Moon in [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
+* Added additional information regarding a potential confrontation with Bianca at Lake Baratok in [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
+* Noted that Argynvost's bones, other than his skull, were burned in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Changed Anton to be Dezdrelda's husband, rather than her brother, in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Fixed an unsolvable sliding puzzle layout in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Added NPC profiles for Escher and Sasha Ivliskova in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Added new information regarding Strahd's involvement with Sasha and Gertruda's request for aid in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Added new information should players attempt to explore the castle after entering the guest suite in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Reworked the fourth floor of Varushka's nightmare in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Reduced Varushka's Challenge Rating to 8 in both phases in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
 * Fixed assorted typos & inconsistencies 
 ## Hotfix 2.0.7.7 (Apr. 28, 2024)
-* Added new rebalancing details for the flesh mound in [[Arc A - Escape From Death House]]
+* Added new rebalancing details for the flesh mound in [[Arco A - Fugir da Casa da Morte]]
 ## Hotfix 2.0.7.6 (Apr. 27, 2024)
-* Removed legacy text from the third level of Varushka's Nightmare in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Removed legacy text from the third level of Varushka's Nightmare in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
 ## Hotfix 2.0.7.5 (Apr. 23, 2024)
-* Added the drawbridge closing at the end of [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Added the drawbridge closing at the end of [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
 ## Hotfix 2.0.7.4 (Apr. 22, 2024)
-* Removed an error referring to three trapdoors instead of one in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Removed an error referring to three trapdoors instead of one in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
 ## Hotfix 2.0.7.3 (Apr. 21, 2024)
-* Added a preliminary Strength saving throw to the Flesh Mound's **engulf** in [[Arc A - Escape From Death House]]
-* Changed the Flesh Mound's engulf to an action and added a new **rupture*** bonus action to the mound's first phase in [[Arc A - Escape From Death House]]
-* Clarified the removal of the vials of alchemist's fire from Ezmerelda's wagon in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
+* Added a preliminary Strength saving throw to the Flesh Mound's **engulf** in [[Arco A - Fugir da Casa da Morte]]
+* Changed the Flesh Mound's engulf to an action and added a new **rupture*** bonus action to the mound's first phase in [[Arco A - Fugir da Casa da Morte]]
+* Clarified the removal of the vials of alchemist's fire from Ezmerelda's wagon in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
 ## Hotfix 2.0.7.2 (Apr. 15, 2024)
-* Rolled back an unfinished/discarded rework of the old Watchtower in [[Act I - Into the Mists/Arc C - Into the Valley]]
-* Added artwork of Vladimir Horngaard in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Rolled back an unfinished/discarded rework of the old Watchtower in[[Arco C - Dentro do Vale]]
+* Added artwork of Vladimir Horngaard in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
 ## Hotfix 2.0.7.1 (Apr. 12, 2024)
-* Increased the XP earned for defeating Izek in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]] and/or [[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]
-* Clarified Ismark the Great's statblock in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Clarified spell slot and other resource mechanics in the Nightmare in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
-* Modified Zorya's breath weapon to deal full damage to ghosts in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Expanded the triggers that cause a *silverthorn collar* to deal damage in [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
+* Increased the XP earned for defeating Izek in [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]] and/or [[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]
+* Clarified Ismark the Great's statblock in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Clarified spell slot and other resource mechanics in the Nightmare in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Modified Zorya's breath weapon to deal full damage to ghosts in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Expanded the triggers that cause a *silverthorn collar* to deal damage in [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
 * Fixed assorted typos and inconsistencies
 # Version 2.0.7 (Apr. 12, 2024)
 **General Changes**
-* Added [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Added [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
 * Fixed assorted typos & inconsistencies 
 * Removed [[Arc D - The Tome of Strahd]] and relocated the deprecated file to the Appendices
 * Removed references to [[Arc D - The Tome of Strahd]]
@@ -369,23 +369,23 @@
 * Added projected completion date and Google Forms feedback form to Under Construction box
 * Updated Acknowledgments
 
-[[remote-blog/Capitulo 2 - A Terra de Barovia/Lore of Barovia]]
+[[Capitulo 2 - A Terra de Barovia/Lore of Barovia]]
 * Removed reference to devil worship by Lady Wachter's cult
 
-[[remote-blog/Chapter 2 - The Land of Barovia 1/History of Barovia]]
+[[Chapter 2 - The Land of Barovia 1/History of Barovia]]
 * Added additional backstory to Khazan, the Radanavich family, and Rudolph van Ricten's revenge against the Radanaviches.
 
-[[remote-blog/Capitulo 2 - A Terra de Barovia/Strahd von Zarovich]]
+[[Capitulo 2 - A Terra de Barovia/Strahd von Zarovich]]
 * Gave Strahd Insight proficiency
 * Clarified ***fog bank*** does not block sunlight
 
-[[remote-blog/Capitulo 3 - Começando o Jogo/Running the Adventure]]
+[[Capitulo 3 - Começando o Jogo/Running the Adventure]]
 * Removed the Wachter **cultist** from the list of Strahd's spies
 
-[[Act I Summary]], [[remote-blog/Ato II - A Cidade Obscurecida/Act II Summary]], [[remote-blog/Ato III - A Terra Quebrada/Act III Summary]]
+[[Act I Summary]], [[Ato II - A Cidade Obscurecida/Act II Summary]], [[Ato III - A Terra Quebrada/Act III Summary]]
 * Added specific dates and timelines
 
-[[Arc A - Escape From Death House]]
+[[Arco A - Fugir da Casa da Morte]]
 * Added Drasha as the author of the dungeon logbook
 * Removed the **mimic**, the *Your Life* book, and Gustav's rock collection
 * Modified the mechanics of the *amber shard*
@@ -401,7 +401,7 @@
 * Added box notifying DMs regarding absence of random encounters
 * Clarified the skeletal rider's destination
 
-[[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]
+[[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added mark on coffin shop floor from teleportation brazier
 * Expedited Volenta's escape
@@ -409,7 +409,7 @@
 * Added information regarding players who visit the church their first night in Vallaki
 * Clarified Milivoj's age
 
-[[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
+[[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Clarified the identities of the Vistani in the tent
 * Placed Ezmerelda's more precious equipment in a false bottom inside her trunk
@@ -420,15 +420,15 @@
 * Added travel times
 * Clarified Victor's morale and relationships in his NPC profile
 
-[[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
+[[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added information regarding Izek catching the players
 
-[[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]
+[[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Clarified player XP if Ireena is kidnapped and rescued
 
-[[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+[[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added NPC profile for Stella
 * Added information regarding the refugees' relocation after Lady Wachter becomes burgomaster
@@ -438,12 +438,12 @@
 * Clarified the hags' lair actions are centered on the windmill
 * Added the hags' ***claw*** attack to their statblock
 
-[[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]
+[[Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added NPC profile for Baron Dmitri Krezkov
 * Added travel times
 
-[[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
+[[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Clarified that Ludmilla's *contingency* spell can't be countered
 * Changed Strahd to instruct the players to meet him at the entrance to the stone circle
@@ -465,7 +465,7 @@
 * Revised the *twilight crest* for clarity
 * Pushed Muriel's arrival forward one day
 
-[[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
+[[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Clarified the limits of Markovia's knowledge during the seance 
 * Modified the meaning of the Mists card in the seance
@@ -475,14 +475,14 @@
 * Pushed Ezmerelda's return forward one day
 * Added reward for **Clovin's Treasure** quest
 
-[[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
+[[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
-* Added reassurances for players leaving Ilya behind pending completion of [[remote-blog/Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
+* Added reassurances for players leaving Ilya behind pending completion of [[Ato III - A Terra Quebrada/Arc P - Ravenloft Heist]]
 * Added additional warnings for parties that attempt to ambush Kiril before rescuing Emil
 * Changed Zuleika to give the players the *Holy Symbol of Ravenkind* subject to a time-delayed curse
 * Removed references to Ezmerelda's *clairvoyance* spell
 
-[[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+[[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added a key to the knights' quarters in the Dragon's Den
 * Reworked **phantom warrior** damage resistances
@@ -498,92 +498,91 @@
 # Hotfix 2.0.6.4 (Feb. 16, 2024)
 * Explicitly removed the RAW "living fire" from Argynvostholt's northeast guest room
 # Hotfix 2.0.6.3 (Feb. 4, 2024
-* Delayed Izek's kidnapping of Ireena in [[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]] to the players' fourth day in Vallaki; the Festival of the Blazing Sun in [[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]] to the players' fifth day in Vallaki; and St. Andral's Feast in [[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] to the players' fifth day in Vallaki.
-* Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
-* Revised Ezmerelda's statistics in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
-* Modified the Abbot's wrath in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]] to punish the flesh golem while Vasilka watches, rather than punishing Vasilka
-* Added level markers for [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]], [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]], [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]], and [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]].
-* Added footnotes referencing intentional homages/inspirations in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] (Ludmilla's speech to Muriel) and [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]] (Brother Marek's speech to the players).
+* Delayed Izek's kidnapping of Ireena in [[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]] to the players' fourth day in Vallaki; the Festival of the Blazing Sun in [[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]] to the players' fifth day in Vallaki; and St. Andral's Feast in [[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] to the players' fifth day in Vallaki.
+* Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
+* Revised Ezmerelda's statistics in [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
+* Modified the Abbot's wrath in [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]] to punish the flesh golem while Vasilka watches, rather than punishing Vasilka
+* Added level markers for [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]], [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]], [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]], and [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]].
+* Added footnotes referencing intentional homages/inspirations in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] (Ludmilla's speech to Muriel) and [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]] (Brother Marek's speech to the players).
 # Hotfix 2.0.6.2 (Feb. 1, 2024)
-* Updated table of contents to include [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]] and [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]].
-* Added Muriel's relaying of Strahd's Tarokka reading from [[Act I - Into the Mists/Arc C - Into the Valley]] at the end of [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
+* Updated table of contents to include [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]] and [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]].
+* Added Muriel's relaying of Strahd's Tarokka reading from[[Arco C - Dentro do Vale]] at the end of [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
 # Hotfix 2.0.6.1 (Jan. 31, 2024)
-* Delayed Ezmerelda's request to investigate the werewolf den in [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]] to one day after she first meets the players in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
-* Corrected the travel time from the Old Svalich Road to Argynvostholt in [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Pushed the date of the dinner with Strahd one day forward in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
+* Delayed Ezmerelda's request to investigate the werewolf den in [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]] to one day after she first meets the players in [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
+* Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Pushed the date of the dinner with Strahd one day forward in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]
 * Fixed assorted typos
 # Version 2.0.6 (Jan. 31, 2024)
-* Added [[remote-blog/Ato III - A Terra Quebrada/Arc L - The Den of Wolves]] and [[remote-blog/Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
-* Added Campaign Contract in [[remote-blog/Capitulo 1 - Começo da Campanha/Session Zero]]
-* Added information regarding the Devourer and Strahd's intentions for Ireena to [[remote-blog/Chapter 2 - The Land of Barovia 1/History of Barovia]]
-* Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[remote-blog/Chapter 2 - The Land of Barovia 1/History of Barovia]]
-* Removed an excess skill proficiency from Ireena's sidekick statblock in [[Act I - Into the Mists/Arc B - Welcome to Barovia]]
-* Added NPC profile for Morgantha in [[Act I - Into the Mists/Arc C - Into the Valley]]
-* Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Act I - Into the Mists/Arc C - Into the Valley]]
-* Clarified the absence of real sunlight in Barovia during the fight with Volenta in [[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]
-* Transferred information regarding the *Tome of Strahd* from the deprecated [[Arc D - The Tome of Strahd]] to [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
-* Modified Rahadin's trial in [[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] to discourage players from attacking Rahadin
-* Removed Arabelle's wasting disease in [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
-* Revised the exterior description of Wachterhaus in [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
-* Added information regarding Leo Dilisnya and the Tarokka reading for the *Tome of Strahd* to [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
-* Modified Victor's tactics during the fight with the hags in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
-* Modified the names of the lambda spells cast by the coven in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] to avoid confusion with RAW spells.
-* Removed disadvantage on ranged attacks made by the **Ba'al Verzi Avenger** in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
-* Clarified the tactics of the **gallows speaker** in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
-* Clarified the behavior of the druids if alerted in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
-* Pushed back Baron Krezkov's invitation to stay at his family's home in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]] until after the players have completed [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
-* Added an NPC profile for Ezmerelda d'Avenir in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
-* Changed the name of Anna Krezkova's ancestor in [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
+* Added [[Ato III - A Terra Quebrada/Arc L - The Den of Wolves]] and [[Ato III - A Terra Quebrada/Arc M - The Dragon's Manor]]
+* Added Campaign Contract in [[Capitulo 1 - Começo da Campanha/Session Zero]]
+* Added information regarding the Devourer and Strahd's intentions for Ireena to [[Chapter 2 - The Land of Barovia 1/History of Barovia]]
+* Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[Chapter 2 - The Land of Barovia 1/History of Barovia]]
+* Removed an excess skill proficiency from Ireena's sidekick statblock in[[Arco B - Bem Vindo a Barovia]]or Morgantha in[[Arco C - Dentro do Vale]]
+* Added a justification for Father Petrovich's presence by the Blue Water Inn in[[Arco C - Dentro do Vale]]
+* Clarified the absence of real sunlight in Barovia during the fight with Volenta in [[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]
+* Transferred information regarding the *Tome of Strahd* from the deprecated [[Arc D - The Tome of Strahd]] to [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+* Modified Rahadin's trial in [[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] to discourage players from attacking Rahadin
+* Removed Arabelle's wasting disease in [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]
+* Revised the exterior description of Wachterhaus in [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
+* Added information regarding Leo Dilisnya and the Tarokka reading for the *Tome of Strahd* to [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]
+* Modified Victor's tactics during the fight with the hags in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+* Modified the names of the lambda spells cast by the coven in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] to avoid confusion with RAW spells.
+* Removed disadvantage on ranged attacks made by the **Ba'al Verzi Avenger** in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+* Clarified the tactics of the **gallows speaker** in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+* Clarified the behavior of the druids if alerted in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
+* Pushed back Baron Krezkov's invitation to stay at his family's home in [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]] until after the players have completed [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
+* Added an NPC profile for Ezmerelda d'Avenir in [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
+* Changed the name of Anna Krezkova's ancestor in [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]]
 * Added [[Glossary
 # Hotfix 2.0.5.5 (Jan. 18, 2024)
 • Fixed assorted typos & inconsistencies  
-• Clarified the location of the Sunsword and Tome of Strahd in [[remote-blog/Capitulo 3 - Começando o Jogo/Running the Adventure]]  
-• Removed language in [[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
+• Clarified the location of the Sunsword and Tome of Strahd in [[Capitulo 3 - Começando o Jogo/Running the Adventure]]  
+• Removed language in [[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
 • Gave Rahadin proficiency in Acrobatics, reduced the cost of his ***disarm*** reaction to 1 reaction, and modified Rahadin's **bleeding** status condition to be cured by magical healing  
-• Defined "bloodied" in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]  
-• Clarified the duration of the conversation with the gallows speaker in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]  
-• Clarified the tactics of the gallows speaker in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] and increased its fly (hover) speed to 40 ft.  
-• Revised the ***amphibious cacophony*** lair action in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] to force movement on the target's turn, rather than as a reaction.  
-• Replaced Victor's decision to cast *fly* in battle against the hags in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] with a casting of *greater invisibility*
-• Clarified how the players can obtain Erasmus's knowledge of gallows speakers in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]  
-• Clarified where the hag coven stands upon the players' return and the hags' sizes in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]  
-• Revised the area description of the Whispering Wall in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]  
-• Added spell save DCs to the *twilight crest* in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]  
+• Defined "bloodied" in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]  
+• Clarified the duration of the conversation with the gallows speaker in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]  
+• Clarified the tactics of the gallows speaker in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] and increased its fly (hover) speed to 40 ft.  
+• Revised the ***amphibious cacophony*** lair action in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] to force movement on the target's turn, rather than as a reaction.  
+• Replaced Victor's decision to cast *fly* in battle against the hags in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] with a casting of *greater invisibility*
+• Clarified how the players can obtain Erasmus's knowledge of gallows speakers in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]  
+• Clarified where the hag coven stands upon the players' return and the hags' sizes in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]  
+• Revised the area description of the Whispering Wall in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]  
+• Added spell save DCs to the *twilight crest* in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]  
 • Gave Izek the ***indomitable*** feature (if Izek would be paralyzed or stunned, he is slowed instead.)  
 • Clarified that two-phase bosses retain conditions in their second forms but excess damage doesn't carry over  
-• Clarified the date(s) on which Rahadin delivers Strahd's dinner invitation in [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]  
+• Clarified the date(s) on which Rahadin delivers Strahd's dinner invitation in [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]]  
 • Added art by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/) for Ismark Kolyanovich, as well as the second-phase forms for Bella and Offalia
 # Hotfix 2.0.5.4 (Jan. 8, 2024)
 * Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
 # Hotfix 2.0.5.3 (Jan. 3, 2024)
 * Added [Challenge Ratings 2.0](https://dragna.io/challenge-rated) encounter balancing information for smaller and larger parties. (Credit to @Cheese on the Patreon Discord.)
-* Added room codes to winery scenes in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
+* Added room codes to winery scenes in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]]
 * Fixed assorted typos
 # Hotfix 2.0.5.2 (Dec. 14, 2023)
 * Removed Ezmerelda's knowledge of Kiril Stoyanovich's real name and replaced it with a nickname
 # Hotfix 2.0.5.1 (Dec. 13, 2023)
 * Fixed assorted typos
-* Removed Muriel's reference to Kavan as "Blood-Drinker" in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]].
-* Revised Strahd's wager at Yester Hill in [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] to use player-offered collateral, rather than the players' lives.
-* Removed information about embracing a werewolf's curse from Van Richten's manuscript in [[Act I - Into the Mists/Arc C - Into the Valley]]
+* Removed Muriel's reference to Kavan as "Blood-Drinker" in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]].
+* Revised Strahd's wager at Yester Hill in [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]] to use player-offered collateral, rather than the players' lives.
+* Removed information about embracing a werewolf's curse from Van Richten's manuscript in[[Arco C - Dentro do Vale]]
 # Version 2.0.5 (Dec. 13, 2023)
 **General Changes**
 * Changed unique monster spells to use in-line "lambda" spellcasting formatting  
 * Added new artwork by artist Caleb Cleveland  
 * Merged Act IV into Act III  
 * Fixed assorted typos
-* Added [[remote-blog/Ato III - A Terra Quebrada/Arc J - The Stolen Gem]], the first half of [[remote-blog/Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]], and the beginning of [[remote-blog/Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]].
+* Added [[Ato III - A Terra Quebrada/Arc J - The Stolen Gem]], the first half of [[Ato III - A Terra Quebrada/Arc K - The Fallen Abbey]], and the beginning of [[Ato III - A Terra Quebrada/Arc O - Dinner with the Devil]].
 
 **[[A DM's Guide to Curse of Strahd]]**
 * Clarified that monsters do not award XP  
 * Clarified that RAW is inapplicable except where expressly incorporated  
 
-**[[remote-blog/Chapter 2 - The Land of Barovia 1/History of Barovia]]**
+**[[Chapter 2 - The Land of Barovia 1/History of Barovia]]**
 * Added new lore regarding the Dreamer/Devourer  
 * Modified Van Richten's history to restore his curse and Arturi Radanavich's curse and remove his time spent traveling with Arturi  
 * Moved King Dostron's invasion to take place in Kavan's old age  
 
-**[[Arc A - Escape From Death House]]**
+**[[Arco A - Fugir da Casa da Morte]]**
 * Allowed Rose and Thorn to aid the players in bypassing Gustav  
 * Made Waltz for Klara open the first half of the secret door in the library  
 * Removed the deed from the chest in the secret room and moved the will to Gustav's desk in the library.  
@@ -623,7 +622,7 @@
 * Moved the Tome of Strahd to the possession of the **gallows speaker** Leo Dilisnya in the Ethereal Plane  
 * Added an additional paragraph at the end of the *Tome of Strahd*  
 
-**[[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]**
+**[[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]]**
 * Added new scenes with Henrik and Milivoj when the players first arrive at St. Andral's Church  
 * Added a new lore box detailing the theft of the bones  
 * Changed Milivoj's knowledge of the bones to come from eavesdropping rather than asking Yeska  
@@ -633,7 +632,7 @@
 * Clarified how Volenta obtained her noisemaker trap  
 * Added a new post-arc scene with Rahadin, Milivoj, and Henrik  
 
-**[[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]**
+**[[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]]**
 * Reworked Rictavio's timeline to arrive on the morning of the players' arrival in Vallaki  
 * Clarified what happens if the players attempt to track Arabelle from the site of her kidnapping  
 * Removed Victor's decision to share information about Stella.  
@@ -643,14 +642,14 @@
 * Truncated the text of Van Richten's journal entry  
 * Added Arabelle's wasting sickness to provide a time limit  
 
-**[[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]**
+**[[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]]**
 * Added lore sidebar regarding Ezra  
 * Clarified how Lady Wachter reacts if the players request tea before receiving an invitation  
 * Clarified Izek retains the Poisoned condition upon changing forms  
 * Clarified Lady Wachter allows the Vistani to enter the town  
 * Added additional silver for weapons to Lady Wachter's reward  
 
-**[[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]**
+**[[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]]**
 * Added an Ireena visit to the Blue Water Inn the morning after IZek's attack  
 * Clarified the Izek kidnaps Ireena while the players are away  
 * Added an ending in which Izek hides Ireena in the wicker sun on the morning of the Festival of the Blazing Sun, allowing her to burn alive if the players don't rescue her  
@@ -658,16 +657,16 @@
 * Gave Ireena a dagger to escape her bindings if rescued from the mansion  
 * Reduced Izek's damage to match recalibrated numbers  
 
-**[[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]**
+**[[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]**
 * Delayed the arc to trigger on the night of the first day after the players reach 5th level.  
 * Changed Franz's nurse to be his sister and the caretaker for his children upon their return  
 * Revised Franz's story to be more sympathetic.  
 * Required Fiona to deactivate the protective circle to allow Victor to enter the Ethereal Plane  
 
-**[[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]**
+**[[Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]**
 * Added a scene in which the Abbot cures the players' lycanthropy by Krezk's blessed pool
 # Version 2.0.4 (Aug. 23, 2023)
-* Added [[Arc D - The Tome of Strahd]], [[remote-blog/Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]], [[remote-blog/Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]], [[remote-blog/Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]], [[remote-blog/Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]], [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], [[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]], and the [[Amber Shards]] appendix
+* Added [[Arc D - The Tome of Strahd]], [[Ato II - A Cidade Obscurecida/Arc D - St. Andral's Feast]], [[Ato II - A Cidade Obscurecida/Arc E - The Missing Vistana]], [[Ato II - A Cidade Obscurecida/Arc F - Lady Wachter's Wish]], [[Ato II - A Cidade Obscurecida/Arc G - The Strazni Siblings]], [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], [[Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]], and the [[Amber Shards]] appendix
 * added all-new splash art by artist Caleb Cleveland
 * changed the name of Yaedrag to Soldav; changed the name of Elder Ormir and his wife Alathea to Elder Burebis and Deceba changed the Sunsword’s hilt to originally belong to a moonblade owned by dusk elf prince Erevan Lowenhart, whose spirit was sealed within * the hilt by Baba Lysaga to empower the new crystal blade
 * changed Rahadin to be Kasimir’s cousin-in-law and the son of Prince Erevan Lowenhart
@@ -694,7 +693,7 @@
 * moved the Tome of Strahd in Vallakovich mansion to Victor’s workroom
 * fixed assorted typos
 # Version 2.0.3 (Jul. 10, 2023)
-* Added [[Act I - Into the Mists/Arc C - Into the Valley]]
+* Added[[Arco C - Dentro do Vale]]
 * Moved Van Richten’s weapon cache further southwest down the Old Svalich Road.
 * Added an “Ireena Joins the Party” sidebar presenting Ireena as a sidekick member of the party.
 * Moved the Huntress’s Forest Fane to Yester Hill and the Seeker’s Mountain Fane to Old Bonegrinder.
@@ -711,7 +710,7 @@
 * Confirmed the XP earned for escaping Death House and burying Kolyan to be 400 XP each.
 * Fixed assorted typos and minor omissions.
 # Version 2.0.2 (Jun. 23, 2023)
-* Added [[Act I - Into the Mists/Arc B - Welcome to Barovia]]
+* Added[[Arco B - Bem Vindo a Barovia]]
 * Updated cover page font.
 * Revised and expanded the Strahd's Return segment in the History of Barovia, adding The Darkened Valley and The Wrath of Strahd as additional segments.
 * Moved the Inhabitants of Barovia section to a new appendix at the end of the guide.

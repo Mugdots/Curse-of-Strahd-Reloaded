@@ -1,0 +1,70 @@
+{
+	"en_pt": [
+		[
+			"dire wolf",
+			"lobo atroz"
+		],
+		[
+			"revenant",
+			"ressurgido"
+		],
+		[
+			"vampire spawn",
+			"cria vampírica"
+		],
+		[
+			"artifacts",
+			"artefatos"
+		],
+		[
+			"Tser Pool",
+			"Lago Tser"
+		],
+		[
+			"wereraven",
+			"corvisomem"
+		],
+		[
+			"Holy Symbol of Ravenkind",
+			"Símbolo Sagrado do Corvo-Bondoso"
+		],
+		[
+			"night hag",
+			"bruxa da noite"
+		],
+		[
+			"zombie",
+			"zumbi"
+		],
+		[
+			"Fane",
+			"Fano"
+		]
+	],
+	"pt_en": [
+		[
+			"artefatos",
+			"artifacts"
+		],
+		[
+			"Lago Tser",
+			"Tser Pool"
+		],
+		[
+			"Símbolo Sagrado do Corvo-Bondoso",
+			"<!-- obsidian --><p><!-- obsidian --></p><p>Holy Symbol of Ravenkind</p>"
+		],
+		[
+			"bruxa da noite",
+			"night hag"
+		],
+		[
+			"zumbi",
+			"zombie"
+		],
+		[
+			"Fano",
+			"Fane"
+		]
+	]
+}

@@ -1,7 +1,7 @@
 _An adventure for five 4th-level characters._
 
 In this arc, if the players defied the Baron’s will on their first morning after entering Vallaki, if they or Ireena were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, the players receive a letter delivered by Ernst Larnak, Lady Fiona Wachter’s courier and spy, which invites them to dine at Wachterhaus that evening.
-A
+
 When the players arrive at Wachterhaus that night, Lady Wachter welcomes them to Vallaki and proceeds to offer them wine, food, and conversation. Throughout the evening, she subtly interrogates the players as to their capabilities and goals, all while working to convince them that Baron Vargas Vallakovich is a menace who must be deposed.
 
 If Lady Wachter determines that the players are suitable allies, she asks them to kill the Baron’s right-hand man, Izek Strazni, and to bring her his head. Lady Wachter promises the safety of the Barovian refugees, as well additional payment, should the players succeed.
@@ -40,7 +40,7 @@ If the players ask Urwin about Lady Wachter, he can share all of the information
 
 Wachterhaus is largely as described in <span class="citation">N4. Wachterhaus (p. 110)</span>, but with the following changes:
 
-***Stella's Bedroom.*** Stella Wachter doesn't scratch at her door or call out to the players in <span class="citation">N4l. Upstairs Hall (p. 113)</span>. If found, she is dull-eyed and non-responsive, incapable of speaking to the players or even moving of her own volition. (This is because she has lost her soul, which is currently trapped in the Ethereal Plane. See [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information.)
+***Stella's Bedroom.*** Stella Wachter doesn't scratch at her door or call out to the players in <span class="citation">N4l. Upstairs Hall (p. 113)</span>. If found, she is dull-eyed and non-responsive, incapable of speaking to the players or even moving of her own volition. (This is because she has lost her soul, which is currently trapped in the Ethereal Plane. See [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information.)
 
 Additionally, Stella's room is neither musty nor dark, and her bed is not fitted with leather straps. Instead, her room is well-appointed, including a woven lavender rug, a comfortable armchair with floral patterns, and a small bookcase with a collection of carved wooden cats atop it. (The cats were whittled by her older brother, Karl, as get-well gifts following Stella’s illness.)
 
@@ -185,7 +185,7 @@ Where appropriate, Lady Wachter can also share the following story about her dau
 >
 > When the players have finished their story, Lady Wachter states that she believes them to be playing a cruel joke upon her and her family, and asks whether they have any means of proving their claims. (She refuses to journey to the Vallakovich manor if the players suggest using the *spirit mirror* to allow her to view Stella directly, dismissing it as a “foolish” suggestion.)
 >
-> See [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul#H5. Wachterhaus|Arc H - The Lost Soul]] for more information on how the players can persuade Lady Wachter of Stella’s fate.
+> See [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul#H5. Wachterhaus|Arc H - The Lost Soul]] for more information on how the players can persuade Lady Wachter of Stella’s fate.
 ## F2e. The Wachter Conspiracy
 If the players appear receptive to her concerns, [[Personagens Não-Jogadores#Lady Fiona Wachter|Lady Wachter]] proceeds to ask for their discretion, as well as their promise that not a whisper of their conversation shall escape this room. If the players agree, Lady Wachter makes the following proposal, speaking carefully and making sure to choose her words delicately:
 
@@ -232,9 +232,9 @@ If the players reject Lady Wachter’s argument, she replies curtly with the fol
 If the players insist that Madam Eva foresaw the existence of the *Sunsword*, she pauses, then notes that, as much as the “Vistana seer” might *believe* what she saw, “the future is notoriously difficult to interpret.” She is willing to concede—albeit with some amusement—that, despite her doubts, she may be more willing to believe the players’ arguments should the sword itself be found.
 
 > [!design]- **Design Notes: Lady Wachter's Arc**
-> Lady Wachter is first introduced as a cynical, if helpful ally. As the players assist her in freeing Vallaki from Izek's tyranny, and later aid her in restoring her daughter's soul in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], Lady Wachter gradually grows less cynical and more open to hope for a better future. 
+> Lady Wachter is first introduced as a cynical, if helpful ally. As the players assist her in freeing Vallaki from Izek's tyranny, and later aid her in restoring her daughter's soul in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]], Lady Wachter gradually grows less cynical and more open to hope for a better future. 
 > 
-> The players' lighting of the beacon of Argynvostholt in [[remote-blog/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]] inspires Lady Wachter to hope for a future without Strahd von Zarovich. She becomes a steadfast ally in the fight against Strahd after the players obtain the *Sunsword* in [[remote-blog/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]].
+> The players' lighting of the beacon of Argynvostholt in [[/Ato III - A Terra Quebrada/Arc Q - A Shining Beacon]] inspires Lady Wachter to hope for a future without Strahd von Zarovich. She becomes a steadfast ally in the fight against Strahd after the players obtain the *Sunsword* in [[/Ato IV - Segredo dos Anciões/Arc S - A Sword of Sunlight]].
 
 ***Accepting the Mission.*** If the players accept Lady Wachter’s assignment, she promises that she will send one of her associates to brief them on Izek Strazni’s schedule—and provide the bottle of poisoned wine—the following morning.
 
@@ -570,29 +570,29 @@ Lady Wachter can share that, according to the book, Vladislav was a Wachter and 
 # Design Notes: Lady Wachter's Wish
 ***The Blue Water Inn.*** The hook to this quest—Lady Wachter's decision to send the players an invitation to dine at Wachterhaus—has been tweaked to provide more support for Lady Wachter's decision to entrust the players with her conspiracy.
 
-***Wachterhaus.*** The corpse of Nikolai Wachter has been removed from Wachterhaus to ensure that he does not serve as a black mark against Lady Wachter—a complicated figure who the players should have more cause to trust, not less. (See [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information about the players' relationship with Lady Fiona Wachter.)
+***Wachterhaus.*** The corpse of Nikolai Wachter has been removed from Wachterhaus to ensure that he does not serve as a black mark against Lady Wachter—a complicated figure who the players should have more cause to trust, not less. (See [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] for more information about the players' relationship with Lady Fiona Wachter.)
 
-Lady Wachter's spell list has been updated to include *zone of truth* in order to provide her with a powerful tool to encourage the players to trust her. (See [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul#H9. The Tome of Strahd|Arc H - The Lost Soul]] for more information about Lady Wachter's use of *zone of truth*). 
+Lady Wachter's spell list has been updated to include *zone of truth* in order to provide her with a powerful tool to encourage the players to trust her. (See [[Arc D - The Tome of Strahd]] for more information about Lady Wachter's use of *zone of truth*). 
 
-*Toll the Dead*, *Bane*, *Blindness/Deafness*, and *Lesser Restoration* have also been added to Lady Wachter's spell list to provide her with additional options in the fight against the **specters** of the Ethereal Plane and Leo Dilisnya's spirit in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]].
+*Toll the Dead*, *Bane*, *Blindness/Deafness*, and *Lesser Restoration* have also been added to Lady Wachter's spell list to provide her with additional options in the fight against the **specters** of the Ethereal Plane and Leo Dilisnya's spirit in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]].
 
-Stella's introduction has been added as a prelude to the dinner to humanize Lady Wachter and to encourage the players to view her with sympathy, and to foreshadow Stella's fate in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+Stella's introduction has been added as a prelude to the dinner to humanize Lady Wachter and to encourage the players to view her with sympathy, and to foreshadow Stella's fate in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
 
-Lady Wachter's connection to Baba Lysaga and the tragic death of her family have been added to provide her with a tie to the spirit of Leo Dilisnya, and a means to entrap the hags of Old Bonegrinder in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+Lady Wachter's connection to Baba Lysaga and the tragic death of her family have been added to provide her with a tie to the spirit of Leo Dilisnya, and a means to entrap the hags of Old Bonegrinder in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
 
-Lady Wachter's interest in using Stella to secure power in Vallaki through marriage with Victor Vallakovich has been removed to make Lady Wachter a more sympathetic character, to deepen her internal conflict and guilt in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] (because her coldness toward Victor discouraged him and Stella from seeking her aid sooner), and to make Victor's friendship with Stella more meaningful to the two of them.
+Lady Wachter's interest in using Stella to secure power in Vallaki through marriage with Victor Vallakovich has been removed to make Lady Wachter a more sympathetic character, to deepen her internal conflict and guilt in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]] (because her coldness toward Victor discouraged him and Stella from seeking her aid sooner), and to make Victor's friendship with Stella more meaningful to the two of them.
 
 Lady Wachter's scheme with the poisoned wine has been added to provide the players with a fuller gameplay experience in the lead-up to Izek's assassination (thereby building the dramatic tension and enhancing the impact of Izek's ultimate death), and to provide the players with a reason to seek out and benefit from Lady Wachter's aid.
 
-In addition to supporting her argument, Lady Wachter's tale of Berez has been added to introduce the fate of the ruined village (which the players can visit in [[remote-blog/Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]) and to subtly foreshadow her connection to Baba Lysaga.
+In addition to supporting her argument, Lady Wachter's tale of Berez has been added to introduce the fate of the ruined village (which the players can visit in [[Ato II - A Cidade Obscurecida/Arc I - The Walls of Krezk]]) and to subtly foreshadow her connection to Baba Lysaga.
 
-Lady Wachter's anecdotes regarding Ezra and Leo Dilisnya have been added to foreshadow Ezra's connection to the Dark Powers (which the players will discover in [[remover/Arc T - The Three Fanes]]) and to introduce Leo Dilisnya's hostile relationship with the Wachter family. (The players will have an opportunity to fight Leo Dilisnya and learn more about that relationship in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]].)
+Lady Wachter's anecdotes regarding Ezra and Leo Dilisnya have been added to foreshadow Ezra's connection to the Dark Powers (which the players will discover in [[remover/Arc T - The Three Fanes]]) and to introduce Leo Dilisnya's hostile relationship with the Wachter family. (The players will have an opportunity to fight Leo Dilisnya and learn more about that relationship in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]].)
 
 ***Return to the Blue Water Inn.*** The players' encounter with Ernst Larnak has been added to introduce his character prior to his antagonistic role in [[Arc S - The Moonlit Murders]].
 
 ***Izek's Assassination.*** Izek's wine case has been added to provide the players with an additional opportunity to explore the Baron's mansion, and to provide preliminary stealth gameplay to raise the dramatic tension before the assassination takes place. The players' encounters with Bluto in the town square, with the dog in the Vallaki alleyway, and with the town guard by the eastern Morning gate provide similar roles.
 
-Izek's spy, as well as the refugees' complaints regarding Morgantha's dream pastries, has been added to foreshadow Morgantha's nature as a **night hag**, which the players will explore further in [[remote-blog/Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
+Izek's spy, as well as the refugees' complaints regarding Morgantha's dream pastries, has been added to foreshadow Morgantha's nature as a **night hag**, which the players will explore further in [[Ato II - A Cidade Obscurecida/Arc H - The Lost Soul]]
 
 ***Ambushing Izek.*** Izek's statblock has been redesigned to provide a challenging, yet winnable solo combat encounter for a balanced party of 4th-level players. Note, however, that this statblock will likely prove an exceptionally difficult (if not impossible) fight for such a party if faced in a fair fight—the players will need to leverage one or more advantages (such as Lady Wachter's poisoned wine) in order to win.
 

@@ -50,7 +50,6 @@
      --custom-background-interesting: #33002a34;
      --custom-background-design: #3600003a;
      --custom-background-combat: #3600003a;
-     --custom-background-combat-alt: #4c2b2b4f;
   }
 
 
@@ -74,14 +73,6 @@
   .markdown-preview-view h3,
   .markdown-preview-view h4,
   .markdown-preview-view h5 {
-    color: var(--highlight-primary);
-  }
-
-  .cm-s-obsidian .cm-header.cm-header-1,
-  .cm-s-obsidian .cm-header.cm-header-2,
-  .cm-s-obsidian .cm-header.cm-header-3,
-  .cm-s-obsidian .cm-header.cm-header-4,
-  .cm-s-obsidian .cm-header.cm-header-5 {
     color: var(--highlight-primary);
   }
 
@@ -237,7 +228,7 @@ details > summary h3 {
 }
 
 details[open] > summary h3 {
-  border-bottom: 1px solid #FFC107 !important;
+  border-bottom: 1px solid #FFC107;
 }
 
 
@@ -257,16 +248,21 @@ padding: 15px;
 }
 
 .bookDescription p {
-margin: 0px;
+margin: 5px;
 color: #2b2b2b;
 }
 
-.book h2, h3, h4 {
-  color: rgb(89, 35, 33) !important;
+.book h3 {
+  color: rgb(89, 35, 33);
   display: inline;
 }
 
-.book b {
+.book h2, h3, h4 {
+  color: rgb(89, 35, 33);
+  display: inline;
+}
+
+.book b, i{
   color: #2b2b2b;
 }
 
@@ -288,6 +284,35 @@ color: #2b2b2b;
   padding-right: 25px;
   background-color: rgb(214, 213, 220);
 }
+/* 
+.book summary {
+  cursor: pointer;
+  font-weight: bold;
+  list-style: none;
+  display: flex;
+  align-items: center;
+} */
+/* 
+.book summary::before {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 4px;
+  background-color: currentColor;
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  mask-repeat: no-repeat;
+  mask-size: contain;
+  transition: transform 0.2s ease;
+}
+
+.book:not([open]) > summary::before {
+  transform: rotate(-90deg);
+} */
+
 
   /* =========================================
      SPECIFIC COMPONENTS
@@ -434,16 +459,6 @@ color: #2b2b2b;
     --callout-icon: lucide-swords;
     --highlight: var(--highlight-combat);
     --background: var(--custom-background-combat);
-  }
-
-  .callout[data-callout="combat"] .callout-content table tbody tr:nth-child(odd) {
-    background: var(--custom-background-combat-alt);
-  }
-
-  .callout[data-callout="combat"] table th,
-  .callout[data-callout="combat"] table td {
-    text-align: center;
-    vertical-align: middle;
   }
 
   .callout[data-callout="warning"] {
